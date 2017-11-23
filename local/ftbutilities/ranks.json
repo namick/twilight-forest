@@ -1,21 +1,21 @@
 {
-  "default_ranks": {
-    "player": "player",
-    "op": "op"
-  },
-  "ranks": {
-    "player": {
-      "parent": "builtin_player",
-      "permissions": [],
-      "config": {
-        "ftbu.homes.max": 100
-      }
-    },
-    "op": {
-      "parent": "builtin_op",
-      "syntax": "<&2$name&r> ",
-      "permissions": [],
-      "config": {}
-    }
-  }
+	"default_ranks": {
+		"player": "player",
+		"op": "op"
+	},
+	"ranks": {
+		"player": {
+			"parent": "builtin_player",
+			"permissions": [],
+			"config": {
+				"ftbu.homes.max": 100
+			}
+		},
+		"op": {
+			"parent": "builtin_op",
+			"syntax": "<&2$name&r> ",
+			"permissions": [],
+			"config": {}
+		}
+	}
 }

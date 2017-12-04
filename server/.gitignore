@@ -1,0 +1,17 @@
+
+.mixin.out/
+backups/
+banned-ips.json
+banned-players.json
+config/
+crafttweaker.log
+crash-reports/
+journeymap/
+local/
+logs/
+mods/
+ops.json
+usercache.json
+usernamecache.json
+whitelist.json
+world/

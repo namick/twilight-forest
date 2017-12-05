@@ -1748,164 +1748,6 @@ forestry:fluid.short.mead, Short Mead, tile.forestry.fluid.short.mead, true, net
 forestry:can, item.for.can.name, item.for.can, false, forestry.core.items.ItemFluidContainerForestry
 forestry:capsule, item.for.capsule.name, item.for.capsule, false, forestry.core.items.ItemFluidContainerForestry
 forestry:refractory, item.for.refractory.name, item.for.refractory, false, forestry.core.items.ItemFluidContainerForestry
-forestry:apiarist_bag, Apiarist's Backpack, item.for.apiarist_bag, false, forestry.storage.items.ItemBackpackNaturalist
-forestry:lepidopterist_bag, Lepidopterist's Backpack, item.for.lepidopterist_bag, false, forestry.storage.items.ItemBackpackNaturalist
-forestry:miner_bag, Mining Backpack, item.for.miner_bag, false, forestry.storage.items.ItemBackpack
-forestry:miner_bag_t2, Woven Mining Backpack, item.for.miner_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:digger_bag, Digging Backpack, item.for.digger_bag, false, forestry.storage.items.ItemBackpack
-forestry:digger_bag_t2, Woven Digging Backpack, item.for.digger_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:forester_bag, Foresting Backpack, item.for.forester_bag, false, forestry.storage.items.ItemBackpack
-forestry:forester_bag_t2, Woven Foresting Woven Backpack, item.for.forester_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:hunter_bag, Hunting Backpack, item.for.hunter_bag, false, forestry.storage.items.ItemBackpack
-forestry:hunter_bag_t2, Hunter's Woven Backpack, item.for.hunter_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:adventurer_bag, Adventuring Backpack, item.for.adventurer_bag, false, forestry.storage.items.ItemBackpack
-forestry:adventurer_bag_t2, Woven Adventuring Backpack, item.for.adventurer_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:builder_bag, Building Backpack, item.for.builder_bag, false, forestry.storage.items.ItemBackpack
-forestry:builder_bag_t2, Woven Building Backpack, item.for.builder_bag_t2, false, forestry.storage.items.ItemBackpack
-forestry:greenhouse:0, Greenhouse Block, tile.for.greenhouse.plain, true, net.minecraft.item.ItemStack
-forestry:greenhouse:3, Greenhouse Energy Distributor, tile.for.greenhouse.gearbox, true, net.minecraft.item.ItemStack
-forestry:greenhouse:4, Greenhouse Control, tile.for.greenhouse.control, true, net.minecraft.item.ItemStack
-forestry:greenhouse:5, Greenhouse Screen, tile.for.greenhouse.screen, true, net.minecraft.item.ItemStack
-forestry:climatiser:0, Greenhouse Hygroregulator, tile.for.climatiser.hygro, true, net.minecraft.item.ItemStack
-forestry:climatiser:1, Greenhouse Heater, tile.for.climatiser.heater, true, net.minecraft.item.ItemStack
-forestry:climatiser:2, Greenhouse Fan, tile.for.climatiser.fan, true, net.minecraft.item.ItemStack
-forestry:climatiser:3, Greenhouse Humidifier, tile.for.climatiser.humidifier, true, net.minecraft.item.ItemStack
-forestry:climatiser:4, Greenhouse Dehumidifier, tile.for.climatiser.dehumidifier, true, net.minecraft.item.ItemStack
-forestry:greenhouse_screen, Portable Greenhouse Screen, item.for.greenhouse_screen, false, forestry.greenhouse.items.ItemGreenhouseScreen
-forestry:camouflage_spray_can, Camouflage Spray Can, item.for.camouflage_spray_can, false, forestry.greenhouse.items.ItemCamouflageSprayCan
-forestry:habitat_locator, Habitat Locator, item.for.habitat_locator, false, forestry.apiculture.items.ItemHabitatLocator
-forestry:imprinter, Imprinter, item.for.imprinter, false, forestry.apiculture.items.ItemImprinter
-forestry:cart.beehouse:0, Minecart with Bee House, item.for.cart.beehouse, false, net.minecraft.item.ItemStack
-forestry:cart.beehouse:1, Minecart with Apiary, item.for.cart.apiary, false, net.minecraft.item.ItemStack
-forestry:frame_untreated, Untreated Frame, item.for.frame_untreated, false, forestry.apiculture.items.ItemHiveFrame
-forestry:frame_impregnated, Impregnated Frame, item.for.frame_impregnated, false, forestry.apiculture.items.ItemHiveFrame
-forestry:frame_proven, Proven Frame, item.for.frame_proven, false, forestry.apiculture.items.ItemHiveFrame
-forestry:honey_drop:0, Honey Drop, item.for.honey_drop.honey, false, net.minecraft.item.ItemStack
-forestry:pollen:0, Pollen Cluster, item.for.pollen.normal, false, net.minecraft.item.ItemStack
-forestry:pollen:1, Crystalline Pollen Cluster, item.for.pollen.crystalline, false, net.minecraft.item.ItemStack
-forestry:propolis:0, Propolis, item.for.propolis.normal, false, net.minecraft.item.ItemStack
-forestry:propolis:1, Sticky Propolis, item.for.propolis.sticky, false, net.minecraft.item.ItemStack
-forestry:propolis:3, Silky Propolis, item.for.propolis.silky, false, net.minecraft.item.ItemStack
-forestry:honeydew, Honeydew, item.for.honeydew, false, forestry.core.items.ItemForestry
-forestry:royal_jelly, Royal Jelly, item.for.royal_jelly, false, forestry.core.items.ItemForestry
-forestry:wax_cast, Wax Cast, item.for.wax_cast, false, forestry.apiculture.items.ItemWaxCast
-forestry:bee_combs:0, Honey Comb, item.for.bee_combs.honey, false, net.minecraft.item.ItemStack
-forestry:bee_combs:2, Simmering Comb, item.for.bee_combs.simmering, false, net.minecraft.item.ItemStack
-forestry:bee_combs:3, Stringy Comb, item.for.bee_combs.stringy, false, net.minecraft.item.ItemStack
-forestry:bee_combs:4, Frozen Comb, item.for.bee_combs.frozen, false, net.minecraft.item.ItemStack
-forestry:bee_combs:5, Dripping Comb, item.for.bee_combs.dripping, false, net.minecraft.item.ItemStack
-forestry:bee_combs:6, Silky Comb, item.for.bee_combs.silky, false, net.minecraft.item.ItemStack
-forestry:bee_combs:7, Parched Comb, item.for.bee_combs.parched, false, net.minecraft.item.ItemStack
-forestry:bee_combs:15, Mossy Comb, item.for.bee_combs.mossy, false, net.minecraft.item.ItemStack
-forestry:bee_combs:16, Mellow Comb, item.for.bee_combs.mellow, false, net.minecraft.item.ItemStack
-forestry:apiarist_helmet, Apiarist's Hat, item.for.apiarist_helmet, false, forestry.apiculture.items.ItemArmorApiarist
-forestry:apiarist_chest, Apiarist's Shirt, item.for.apiarist_chest, false, forestry.apiculture.items.ItemArmorApiarist
-forestry:apiarist_legs, Apiarist's Pants, item.for.apiarist_legs, false, forestry.apiculture.items.ItemArmorApiarist
-forestry:apiarist_boots, Apiarist's Shoes, item.for.apiarist_boots, false, forestry.apiculture.items.ItemArmorApiarist
-forestry:scoop, Scoop, item.for.scoop, false, forestry.core.items.ItemScoop
-forestry:smoker, Bee Smoker, item.for.smoker, false, forestry.apiculture.items.ItemSmoker
-forestry:apiary:0, Apiary, tile.for.apiary, true, net.minecraft.item.ItemStack
-forestry:bee_house:0, Bee House, tile.for.bee_house, true, net.minecraft.item.ItemStack
-forestry:bee_chest:0, Apiarist's Chest, tile.for.bee_chest, true, net.minecraft.item.ItemStack
-forestry:beehives:0, Forest Hive, tile.for.beehives.forest, true, net.minecraft.item.ItemStack
-forestry:beehives:1, Meadows Hive, tile.for.beehives.meadows, true, net.minecraft.item.ItemStack
-forestry:beehives:2, Modest Hive, tile.for.beehives.desert, true, net.minecraft.item.ItemStack
-forestry:beehives:3, Tropical Hive, tile.for.beehives.jungle, true, net.minecraft.item.ItemStack
-forestry:beehives:4, Ender Hive, tile.for.beehives.end, true, net.minecraft.item.ItemStack
-forestry:beehives:5, Wintry Hive, tile.for.beehives.snow, true, net.minecraft.item.ItemStack
-forestry:beehives:6, Marshy Hive, tile.for.beehives.swamp, true, net.minecraft.item.ItemStack
-forestry:candle:0, Unlit Candle, tile.for.candle.stump, true, net.minecraft.item.ItemStack
-forestry:stump:0, Candle Stump, tile.for.stump, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:0, Honey Comb Block, tile.for.bee_combs.honey, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:2, Simmering Comb Block, tile.for.bee_combs.simmering, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:3, Stringy Comb Block, tile.for.bee_combs.stringy, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:4, Frozen Comb Block, tile.for.bee_combs.frozen, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:5, Dripping Comb Block, tile.for.bee_combs.dripping, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:6, Silky Comb Block, tile.for.bee_combs.silky, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:7, Parched Comb Block, tile.for.bee_combs.parched, true, net.minecraft.item.ItemStack
-forestry:bee_combs_0:15, Mossy Comb Block, tile.for.bee_combs.mossy, true, net.minecraft.item.ItemStack
-forestry:bee_combs_1:0, Mellow Comb Block, tile.for.bee_combs.mellow, true, net.minecraft.item.ItemStack
-forestry:alveary.plain:0, Alveary, tile.for.alveary.plain, true, net.minecraft.item.ItemStack
-forestry:alveary.swarmer:0, Alveary Swarmer, tile.for.alveary.swarmer, true, net.minecraft.item.ItemStack
-forestry:alveary.fan:0, Alveary Fan, tile.for.alveary.fan, true, net.minecraft.item.ItemStack
-forestry:alveary.heater:0, Alveary Heater, tile.for.alveary.heater, true, net.minecraft.item.ItemStack
-forestry:alveary.hygro:0, Alveary Hygroregulator, tile.for.alveary.hygro, true, net.minecraft.item.ItemStack
-forestry:alveary.stabiliser:0, Alveary Stabiliser, tile.for.alveary.stabiliser, true, net.minecraft.item.ItemStack
-forestry:alveary.sieve:0, Alveary Sieve, tile.for.alveary.sieve, true, net.minecraft.item.ItemStack
-forestry:charcoal:0, Block of Charcoal, tile.for.charcoal, true, net.minecraft.item.ItemStack
-forestry:wood_pile:0, Wood Pile, tile.for.wood_pile, true, net.minecraft.item.ItemStack
-forestry:wood_pile_decorative:0, Decorative Wood Pile, tile.for.wood_pile_decorative, true, net.minecraft.item.ItemStack
-forestry:ash_block:0, Ash Block, tile.for.ash_block, true, net.minecraft.item.ItemStack
-forestry:loam:0, Loam, tile.for.loam, true, net.minecraft.item.ItemStack
-forestry:mushroom:0, tile.for.mushroom.name, tile.for.mushroom, true, net.minecraft.item.ItemStack
-forestry:mushroom:1, tile.for.mushroom.name, tile.for.mushroom, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
-forestry:crate, Crate, item.for.crate, false, forestry.storage.items.ItemCrated
-forestry:bottler:0, Bottler, tile.for.bottler, true, net.minecraft.item.ItemStack
-forestry:carpenter:0, Carpenter, tile.for.carpenter, true, net.minecraft.item.ItemStack
-forestry:centrifuge:0, Centrifuge, tile.for.centrifuge, true, net.minecraft.item.ItemStack
-forestry:fermenter:0, Fermenter, tile.for.fermenter, true, net.minecraft.item.ItemStack
-forestry:moistener:0, Moistener, tile.for.moistener, true, net.minecraft.item.ItemStack
-forestry:squeezer:0, Squeezer, tile.for.squeezer, true, net.minecraft.item.ItemStack
-forestry:still:0, Still, tile.for.still, true, net.minecraft.item.ItemStack
-forestry:rainmaker:0, Rainmaker, tile.for.rainmaker, true, net.minecraft.item.ItemStack
-forestry:fabricator:0, Thermionic Fabricator, tile.for.fabricator, true, net.minecraft.item.ItemStack
-forestry:raintank:0, Rain Tank, tile.for.raintank, true, net.minecraft.item.ItemStack
-forestry:worktable:0, Worktable, tile.for.worktable, true, net.minecraft.item.ItemStack
 forestry:stamps:0, Stamp (1n), item.for.stamps.1n, false, net.minecraft.item.ItemStack
 forestry:stamps:1, Stamp (2n), item.for.stamps.2n, false, net.minecraft.item.ItemStack
 forestry:stamps:2, Stamp (5n), item.for.stamps.5n, false, net.minecraft.item.ItemStack
@@ -1918,7 +1760,6 @@ forestry:catalogue, Catalogue, item.for.catalogue, false, forestry.mail.items.It
 forestry:mailbox:0, Mailbox, tile.for.mailbox, true, net.minecraft.item.ItemStack
 forestry:trade_station:0, Trade Station, tile.for.trade_station, true, net.minecraft.item.ItemStack
 forestry:stamp_collector:0, Stamp Collector, tile.for.stamp_collector, true, net.minecraft.item.ItemStack
-forestry:database:0, Database, tile.for.database, true, net.minecraft.item.ItemStack
 forestry:grafter, Grafter, item.for.grafter, false, forestry.arboriculture.items.ItemGrafter
 forestry:grafter_proven, Proven Grafter, item.for.grafter_proven, false, forestry.arboriculture.items.ItemGrafter
 forestry:logs.0:0, Larch Wood, tile.for.logs.0, true, net.minecraft.item.ItemStack
@@ -2371,15 +2212,174 @@ forestry:leaves.decorative.2:0, Papaya Leaves, tile.for.leaves.decorative.2, tru
 forestry:leaves.decorative.2:1, Date Palm Leaves, tile.for.leaves.decorative.2, true, net.minecraft.item.ItemStack
 forestry:leaves.decorative.2:2, White Poplar Leaves, tile.for.leaves.decorative.2, true, net.minecraft.item.ItemStack
 forestry:tree_chest:0, Arborist's Chest, tile.for.tree_chest, true, net.minecraft.item.ItemStack
-forestry:honeyed_slice, Honeyed Slice, item.for.honeyed_slice, false, forestry.core.items.ItemForestryFood
-forestry:ambrosia, Ambrosia, item.for.ambrosia, false, forestry.food.items.ItemAmbrosia
-forestry:honey_pot, Honey Pot, item.for.honey_pot, false, forestry.core.items.ItemForestryFood
-forestry:butterfly_chest:0, Lepidopterist's Chest, tile.for.butterfly_chest, true, net.minecraft.item.ItemStack
-forestry:cocoon:0, tile.for.cocoon.name, tile.for.cocoon, true, net.minecraft.item.ItemStack
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name, tile.for.cocoon.solid, true, net.minecraft.item.ItemStack
 forestry:engine_peat:0, Peat-fired Engine, tile.for.engine_peat, true, net.minecraft.item.ItemStack
 forestry:engine_biogas:0, Biogas Engine, tile.for.engine_biogas, true, net.minecraft.item.ItemStack
 forestry:engine_clockwork:0, Clockwork Engine, tile.for.engine_clockwork, true, net.minecraft.item.ItemStack
+forestry:mushroom:0, tile.for.mushroom.name, tile.for.mushroom, true, net.minecraft.item.ItemStack
+forestry:mushroom:1, tile.for.mushroom.name, tile.for.mushroom, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:0, Farm Block, tile.for.ffarm.0, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:2, Farm Gearbox, tile.for.ffarm.2, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:3, Farm Hatch, tile.for.ffarm.3, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:4, Farm Valve, tile.for.ffarm.4, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:ffarm:5, Farm Control, tile.for.ffarm.5, true, net.minecraft.item.ItemStack
+forestry:bottler:0, Bottler, tile.for.bottler, true, net.minecraft.item.ItemStack
+forestry:carpenter:0, Carpenter, tile.for.carpenter, true, net.minecraft.item.ItemStack
+forestry:centrifuge:0, Centrifuge, tile.for.centrifuge, true, net.minecraft.item.ItemStack
+forestry:fermenter:0, Fermenter, tile.for.fermenter, true, net.minecraft.item.ItemStack
+forestry:moistener:0, Moistener, tile.for.moistener, true, net.minecraft.item.ItemStack
+forestry:squeezer:0, Squeezer, tile.for.squeezer, true, net.minecraft.item.ItemStack
+forestry:still:0, Still, tile.for.still, true, net.minecraft.item.ItemStack
+forestry:rainmaker:0, Rainmaker, tile.for.rainmaker, true, net.minecraft.item.ItemStack
+forestry:fabricator:0, Thermionic Fabricator, tile.for.fabricator, true, net.minecraft.item.ItemStack
+forestry:raintank:0, Rain Tank, tile.for.raintank, true, net.minecraft.item.ItemStack
+forestry:worktable:0, Worktable, tile.for.worktable, true, net.minecraft.item.ItemStack
+forestry:charcoal:0, Block of Charcoal, tile.for.charcoal, true, net.minecraft.item.ItemStack
+forestry:wood_pile:0, Wood Pile, tile.for.wood_pile, true, net.minecraft.item.ItemStack
+forestry:wood_pile_decorative:0, Decorative Wood Pile, tile.for.wood_pile_decorative, true, net.minecraft.item.ItemStack
+forestry:ash_block:0, Ash Block, tile.for.ash_block, true, net.minecraft.item.ItemStack
+forestry:loam:0, Loam, tile.for.loam, true, net.minecraft.item.ItemStack
+forestry:greenhouse:0, Greenhouse Block, tile.for.greenhouse.plain, true, net.minecraft.item.ItemStack
+forestry:greenhouse:3, Greenhouse Energy Distributor, tile.for.greenhouse.gearbox, true, net.minecraft.item.ItemStack
+forestry:greenhouse:4, Greenhouse Control, tile.for.greenhouse.control, true, net.minecraft.item.ItemStack
+forestry:greenhouse:5, Greenhouse Screen, tile.for.greenhouse.screen, true, net.minecraft.item.ItemStack
+forestry:climatiser:0, Greenhouse Hygroregulator, tile.for.climatiser.hygro, true, net.minecraft.item.ItemStack
+forestry:climatiser:1, Greenhouse Heater, tile.for.climatiser.heater, true, net.minecraft.item.ItemStack
+forestry:climatiser:2, Greenhouse Fan, tile.for.climatiser.fan, true, net.minecraft.item.ItemStack
+forestry:climatiser:3, Greenhouse Humidifier, tile.for.climatiser.humidifier, true, net.minecraft.item.ItemStack
+forestry:climatiser:4, Greenhouse Dehumidifier, tile.for.climatiser.dehumidifier, true, net.minecraft.item.ItemStack
+forestry:greenhouse_screen, Portable Greenhouse Screen, item.for.greenhouse_screen, false, forestry.greenhouse.items.ItemGreenhouseScreen
+forestry:camouflage_spray_can, Camouflage Spray Can, item.for.camouflage_spray_can, false, forestry.greenhouse.items.ItemCamouflageSprayCan
+forestry:honeyed_slice, Honeyed Slice, item.for.honeyed_slice, false, forestry.core.items.ItemForestryFood
+forestry:ambrosia, Ambrosia, item.for.ambrosia, false, forestry.food.items.ItemAmbrosia
+forestry:honey_pot, Honey Pot, item.for.honey_pot, false, forestry.core.items.ItemForestryFood
+forestry:database:0, Database, tile.for.database, true, net.minecraft.item.ItemStack
+forestry:butterfly_chest:0, Lepidopterist's Chest, tile.for.butterfly_chest, true, net.minecraft.item.ItemStack
+forestry:cocoon:0, tile.for.cocoon.name, tile.for.cocoon, true, net.minecraft.item.ItemStack
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name, tile.for.cocoon.solid, true, net.minecraft.item.ItemStack
+forestry:apiarist_bag, Apiarist's Backpack, item.for.apiarist_bag, false, forestry.storage.items.ItemBackpackNaturalist
+forestry:lepidopterist_bag, Lepidopterist's Backpack, item.for.lepidopterist_bag, false, forestry.storage.items.ItemBackpackNaturalist
+forestry:miner_bag, Mining Backpack, item.for.miner_bag, false, forestry.storage.items.ItemBackpack
+forestry:miner_bag_t2, Woven Mining Backpack, item.for.miner_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:digger_bag, Digging Backpack, item.for.digger_bag, false, forestry.storage.items.ItemBackpack
+forestry:digger_bag_t2, Woven Digging Backpack, item.for.digger_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:forester_bag, Foresting Backpack, item.for.forester_bag, false, forestry.storage.items.ItemBackpack
+forestry:forester_bag_t2, Woven Foresting Woven Backpack, item.for.forester_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:hunter_bag, Hunting Backpack, item.for.hunter_bag, false, forestry.storage.items.ItemBackpack
+forestry:hunter_bag_t2, Hunter's Woven Backpack, item.for.hunter_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:adventurer_bag, Adventuring Backpack, item.for.adventurer_bag, false, forestry.storage.items.ItemBackpack
+forestry:adventurer_bag_t2, Woven Adventuring Backpack, item.for.adventurer_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:builder_bag, Building Backpack, item.for.builder_bag, false, forestry.storage.items.ItemBackpack
+forestry:builder_bag_t2, Woven Building Backpack, item.for.builder_bag_t2, false, forestry.storage.items.ItemBackpack
+forestry:habitat_locator, Habitat Locator, item.for.habitat_locator, false, forestry.apiculture.items.ItemHabitatLocator
+forestry:imprinter, Imprinter, item.for.imprinter, false, forestry.apiculture.items.ItemImprinter
+forestry:cart.beehouse:0, Minecart with Bee House, item.for.cart.beehouse, false, net.minecraft.item.ItemStack
+forestry:cart.beehouse:1, Minecart with Apiary, item.for.cart.apiary, false, net.minecraft.item.ItemStack
+forestry:frame_untreated, Untreated Frame, item.for.frame_untreated, false, forestry.apiculture.items.ItemHiveFrame
+forestry:frame_impregnated, Impregnated Frame, item.for.frame_impregnated, false, forestry.apiculture.items.ItemHiveFrame
+forestry:frame_proven, Proven Frame, item.for.frame_proven, false, forestry.apiculture.items.ItemHiveFrame
+forestry:honey_drop:0, Honey Drop, item.for.honey_drop.honey, false, net.minecraft.item.ItemStack
+forestry:pollen:0, Pollen Cluster, item.for.pollen.normal, false, net.minecraft.item.ItemStack
+forestry:pollen:1, Crystalline Pollen Cluster, item.for.pollen.crystalline, false, net.minecraft.item.ItemStack
+forestry:propolis:0, Propolis, item.for.propolis.normal, false, net.minecraft.item.ItemStack
+forestry:propolis:1, Sticky Propolis, item.for.propolis.sticky, false, net.minecraft.item.ItemStack
+forestry:propolis:3, Silky Propolis, item.for.propolis.silky, false, net.minecraft.item.ItemStack
+forestry:honeydew, Honeydew, item.for.honeydew, false, forestry.core.items.ItemForestry
+forestry:royal_jelly, Royal Jelly, item.for.royal_jelly, false, forestry.core.items.ItemForestry
+forestry:wax_cast, Wax Cast, item.for.wax_cast, false, forestry.apiculture.items.ItemWaxCast
+forestry:bee_combs:0, Honey Comb, item.for.bee_combs.honey, false, net.minecraft.item.ItemStack
+forestry:bee_combs:2, Simmering Comb, item.for.bee_combs.simmering, false, net.minecraft.item.ItemStack
+forestry:bee_combs:3, Stringy Comb, item.for.bee_combs.stringy, false, net.minecraft.item.ItemStack
+forestry:bee_combs:4, Frozen Comb, item.for.bee_combs.frozen, false, net.minecraft.item.ItemStack
+forestry:bee_combs:5, Dripping Comb, item.for.bee_combs.dripping, false, net.minecraft.item.ItemStack
+forestry:bee_combs:6, Silky Comb, item.for.bee_combs.silky, false, net.minecraft.item.ItemStack
+forestry:bee_combs:7, Parched Comb, item.for.bee_combs.parched, false, net.minecraft.item.ItemStack
+forestry:bee_combs:15, Mossy Comb, item.for.bee_combs.mossy, false, net.minecraft.item.ItemStack
+forestry:bee_combs:16, Mellow Comb, item.for.bee_combs.mellow, false, net.minecraft.item.ItemStack
+forestry:apiarist_helmet, Apiarist's Hat, item.for.apiarist_helmet, false, forestry.apiculture.items.ItemArmorApiarist
+forestry:apiarist_chest, Apiarist's Shirt, item.for.apiarist_chest, false, forestry.apiculture.items.ItemArmorApiarist
+forestry:apiarist_legs, Apiarist's Pants, item.for.apiarist_legs, false, forestry.apiculture.items.ItemArmorApiarist
+forestry:apiarist_boots, Apiarist's Shoes, item.for.apiarist_boots, false, forestry.apiculture.items.ItemArmorApiarist
+forestry:scoop, Scoop, item.for.scoop, false, forestry.core.items.ItemScoop
+forestry:smoker, Bee Smoker, item.for.smoker, false, forestry.apiculture.items.ItemSmoker
+forestry:apiary:0, Apiary, tile.for.apiary, true, net.minecraft.item.ItemStack
+forestry:bee_house:0, Bee House, tile.for.bee_house, true, net.minecraft.item.ItemStack
+forestry:bee_chest:0, Apiarist's Chest, tile.for.bee_chest, true, net.minecraft.item.ItemStack
+forestry:beehives:0, Forest Hive, tile.for.beehives.forest, true, net.minecraft.item.ItemStack
+forestry:beehives:1, Meadows Hive, tile.for.beehives.meadows, true, net.minecraft.item.ItemStack
+forestry:beehives:2, Modest Hive, tile.for.beehives.desert, true, net.minecraft.item.ItemStack
+forestry:beehives:3, Tropical Hive, tile.for.beehives.jungle, true, net.minecraft.item.ItemStack
+forestry:beehives:4, Ender Hive, tile.for.beehives.end, true, net.minecraft.item.ItemStack
+forestry:beehives:5, Wintry Hive, tile.for.beehives.snow, true, net.minecraft.item.ItemStack
+forestry:beehives:6, Marshy Hive, tile.for.beehives.swamp, true, net.minecraft.item.ItemStack
+forestry:candle:0, Unlit Candle, tile.for.candle.stump, true, net.minecraft.item.ItemStack
+forestry:stump:0, Candle Stump, tile.for.stump, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:0, Honey Comb Block, tile.for.bee_combs.honey, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:2, Simmering Comb Block, tile.for.bee_combs.simmering, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:3, Stringy Comb Block, tile.for.bee_combs.stringy, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:4, Frozen Comb Block, tile.for.bee_combs.frozen, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:5, Dripping Comb Block, tile.for.bee_combs.dripping, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:6, Silky Comb Block, tile.for.bee_combs.silky, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:7, Parched Comb Block, tile.for.bee_combs.parched, true, net.minecraft.item.ItemStack
+forestry:bee_combs_0:15, Mossy Comb Block, tile.for.bee_combs.mossy, true, net.minecraft.item.ItemStack
+forestry:bee_combs_1:0, Mellow Comb Block, tile.for.bee_combs.mellow, true, net.minecraft.item.ItemStack
+forestry:alveary.plain:0, Alveary, tile.for.alveary.plain, true, net.minecraft.item.ItemStack
+forestry:alveary.swarmer:0, Alveary Swarmer, tile.for.alveary.swarmer, true, net.minecraft.item.ItemStack
+forestry:alveary.fan:0, Alveary Fan, tile.for.alveary.fan, true, net.minecraft.item.ItemStack
+forestry:alveary.heater:0, Alveary Heater, tile.for.alveary.heater, true, net.minecraft.item.ItemStack
+forestry:alveary.hygro:0, Alveary Hygroregulator, tile.for.alveary.hygro, true, net.minecraft.item.ItemStack
+forestry:alveary.stabiliser:0, Alveary Stabiliser, tile.for.alveary.stabiliser, true, net.minecraft.item.ItemStack
+forestry:alveary.sieve:0, Alveary Sieve, tile.for.alveary.sieve, true, net.minecraft.item.ItemStack
+forestry:crate, Crate, item.for.crate, false, forestry.storage.items.ItemCrated
 thermalfoundation:ore:0, Copper Ore, tile.thermalfoundation.ore.copper.name, true, net.minecraft.item.ItemStack
 thermalfoundation:ore:1, Tin Ore, tile.thermalfoundation.ore.tin.name, true, net.minecraft.item.ItemStack
 thermalfoundation:ore:2, Silver Ore, tile.thermalfoundation.ore.silver.name, true, net.minecraft.item.ItemStack
@@ -2446,10 +2446,18 @@ thermalfoundation:rockwool:14, Orange Rockwool, tile.thermalfoundation.rockwool.
 thermalfoundation:rockwool:15, White Rockwool, tile.thermalfoundation.rockwool.white.name, true, net.minecraft.item.ItemStack
 thermalfoundation:wrench:0, Crescent Hammer, item.thermalfoundation.util.wrench0, false, net.minecraft.item.ItemStack
 thermalfoundation:meter:0, Multimeter, item.thermalfoundation.util.multimeter, false, net.minecraft.item.ItemStack
-thermalfoundation:tome:0, Forge Lexicon, item.thermalfoundation.tome.lexicon, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:0, Hardened Upgrade Kit, item.thermalfoundation.upgrade.incremental1, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:1, Reinforced Upgrade Kit, item.thermalfoundation.upgrade.incremental2, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:2, Signalum Upgrade Kit, item.thermalfoundation.upgrade.incremental3, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:3, Resonant Upgrade Kit, item.thermalfoundation.upgrade.incremental4, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:33, Reinforced Conversion Kit, item.thermalfoundation.upgrade.full2, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:34, Signalum Conversion Kit, item.thermalfoundation.upgrade.full3, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:35, Resonant Conversion Kit, item.thermalfoundation.upgrade.full4, false, net.minecraft.item.ItemStack
+thermalfoundation:upgrade:256, Creative Conversion Kit, item.thermalfoundation.upgrade.creative, false, net.minecraft.item.ItemStack
 thermalfoundation:security:0, Signalum Security Lock, item.thermalfoundation.util.lock, false, net.minecraft.item.ItemStack
-thermalfoundation:diagram:0, Schematic, item.thermalfoundation.diagram.schematic, false, net.minecraft.item.ItemStack
-thermalfoundation:diagram:3, Redprint, item.thermalfoundation.diagram.redprint, false, net.minecraft.item.ItemStack
+thermalfoundation:diagram_redprint:0, Redprint, item.thermalfoundation.diagram.redprint, false, net.minecraft.item.ItemStack
+thermalfoundation:tome_lexicon:0, Forge Lexicon, item.thermalfoundation.tome.lexicon, false, net.minecraft.item.ItemStack
+thermalfoundation:tome_experience:0, Tome of Knowledge, item.thermalfoundation.tome.experience, false, net.minecraft.item.ItemStack
 thermalfoundation:coin:0, Iron Coin, item.thermalfoundation.coin.coinIron, false, net.minecraft.item.ItemStack
 thermalfoundation:coin:1, Gold Coin, item.thermalfoundation.coin.coinGold, false, net.minecraft.item.ItemStack
 thermalfoundation:coin:64, Copper Coin, item.thermalfoundation.coin.coinCopper, false, net.minecraft.item.ItemStack
@@ -3245,154 +3253,6 @@ moreplates:manyullyn_gear, Manyullyn Gear, item.manyullyn_gear, false, panszeles
 moreplates:manyullyn_plate, Manyullyn Plate, item.manyullyn_plate, false, panszelescik.moreplates.items.ItemManyullynPlate
 moreplates:pig_iron_gear, Pig Iron Gear, item.pig_iron_gear, false, panszelescik.moreplates.items.ItemPigIronGear
 moreplates:pig_iron_plate, Pig Iron Plate, item.pig_iron_plate, false, panszelescik.moreplates.items.ItemPigIronPlate
-opencomputers:adapter:0, Adapter, tile.oc.adapter, true, net.minecraft.item.ItemStack
-opencomputers:assembler:0, Electronics Assembler, tile.oc.assembler, true, net.minecraft.item.ItemStack
-opencomputers:cable:11250603, Cable, tile.oc.cable, true, net.minecraft.item.ItemStack
-opencomputers:capacitor:0, Capacitor, tile.oc.capacitor, true, net.minecraft.item.ItemStack
-opencomputers:case1:0, Computer Case (Tier 1), tile.oc.case1, true, net.minecraft.item.ItemStack
-opencomputers:case3:0, Computer Case (Tier 3), tile.oc.case3, true, net.minecraft.item.ItemStack
-opencomputers:case2:0, Computer Case (Tier 2), tile.oc.case2, true, net.minecraft.item.ItemStack
-opencomputers:chameliumblock:0, Block of Chamelium, tile.oc.chameliumblock, true, net.minecraft.item.ItemStack
-opencomputers:charger:0, Charger, tile.oc.charger, true, net.minecraft.item.ItemStack
-opencomputers:disassembler:0, Disassembler, tile.oc.disassembler, true, net.minecraft.item.ItemStack
-opencomputers:diskdrive:0, Disk Drive, tile.oc.diskdrive, true, net.minecraft.item.ItemStack
-opencomputers:geolyzer:0, Geolyzer, tile.oc.geolyzer, true, net.minecraft.item.ItemStack
-opencomputers:hologram1:0, Hologram Projector (Tier 1), tile.oc.hologram1, true, net.minecraft.item.ItemStack
-opencomputers:hologram2:0, Hologram Projector (Tier 2), tile.oc.hologram2, true, net.minecraft.item.ItemStack
-opencomputers:keyboard:0, Keyboard, tile.oc.keyboard, true, net.minecraft.item.ItemStack
-opencomputers:motionsensor:0, Motion Sensor, tile.oc.motionsensor, true, net.minecraft.item.ItemStack
-opencomputers:powerconverter:0, Power Converter, tile.oc.powerconverter, true, net.minecraft.item.ItemStack
-opencomputers:powerdistributor:0, Power Distributor, tile.oc.powerdistributor, true, net.minecraft.item.ItemStack
-opencomputers:printer:0, 3D Printer, tile.oc.printer, true, net.minecraft.item.ItemStack
-opencomputers:raid:0, Raid, tile.oc.raid, true, net.minecraft.item.ItemStack
-opencomputers:redstone:0, Redstone I/O, tile.oc.redstone, true, net.minecraft.item.ItemStack
-opencomputers:relay:0, Relay, tile.oc.relay, true, net.minecraft.item.ItemStack
-opencomputers:screen1:0, Screen (Tier 1), tile.oc.screen1, true, net.minecraft.item.ItemStack
-opencomputers:screen3:0, Screen (Tier 3), tile.oc.screen3, true, net.minecraft.item.ItemStack
-opencomputers:screen2:0, Screen (Tier 2), tile.oc.screen2, true, net.minecraft.item.ItemStack
-opencomputers:rack:0, Rack, tile.oc.rack, true, net.minecraft.item.ItemStack
-opencomputers:waypoint:0, Waypoint, tile.oc.waypoint, true, net.minecraft.item.ItemStack
-opencomputers:casecreative:0, Computer Case (Creative), tile.oc.casecreative, true, net.minecraft.item.ItemStack
-opencomputers:microcontroller:0, Microcontroller, tile.oc.microcontroller, true, net.minecraft.item.ItemStack
-opencomputers:print:0, 3D Print, tile.oc.print, true, net.minecraft.item.ItemStack
-opencomputers:robotafterimage:0, Robot, tile.oc.robotafterimage, true, net.minecraft.item.ItemStack
-opencomputers:robot:0, robot.name, robot, true, net.minecraft.item.ItemStack
-opencomputers:endstone:0, End Stone, tile.oc.endstone, true, net.minecraft.item.ItemStack
-opencomputers:netsplitter:0, Net Splitter, tile.oc.netsplitter, true, net.minecraft.item.ItemStack
-opencomputers:transposer:0, Transposer, tile.oc.transposer, true, net.minecraft.item.ItemStack
-opencomputers:material:1, Grog, item.oc.acid, false, net.minecraft.item.ItemStack
-opencomputers:material:10, Arithmetic Logic Unit (ALU), item.oc.alu, false, net.minecraft.item.ItemStack
-opencomputers:material:15, Arrow Keys, item.oc.arrowkeys, false, net.minecraft.item.ItemStack
-opencomputers:material:14, Button Group, item.oc.buttongroup, false, net.minecraft.item.ItemStack
-opencomputers:material:5, Card Base, item.oc.cardbase, false, net.minecraft.item.ItemStack
-opencomputers:material:28, Chamelium, item.oc.chamelium, false, net.minecraft.item.ItemStack
-opencomputers:material:3, Circuit Board, item.oc.circuitboard, false, net.minecraft.item.ItemStack
-opencomputers:material:11, Control Unit (CU), item.oc.controlunit, false, net.minecraft.item.ItemStack
-opencomputers:material:0, Cutting Wire, item.oc.cuttingwire, false, net.minecraft.item.ItemStack
-opencomputers:material:29, Diamond Chip, item.oc.diamondchip, false, net.minecraft.item.ItemStack
-opencomputers:material:12, Disk Platter, item.oc.disk, false, net.minecraft.item.ItemStack
-opencomputers:material:23, Drone Case (Tier 1), item.oc.dronecase0, false, net.minecraft.item.ItemStack
-opencomputers:material:24, Drone Case (Tier 2), item.oc.dronecase1, false, net.minecraft.item.ItemStack
-opencomputers:material:25, Drone Case (Creative), item.oc.dronecase3, false, net.minecraft.item.ItemStack
-opencomputers:material:27, Ink Cartridge, item.oc.inkcartridge, false, net.minecraft.item.ItemStack
-opencomputers:material:26, Ink Cartridge (Empty), item.oc.inkcartridgeempty, false, net.minecraft.item.ItemStack
-opencomputers:material:13, Interweb, item.oc.interweb, false, net.minecraft.item.ItemStack
-opencomputers:material:7, Microchip (Tier 1), item.oc.microchip0, false, net.minecraft.item.ItemStack
-opencomputers:material:8, Microchip (Tier 2), item.oc.microchip1, false, net.minecraft.item.ItemStack
-opencomputers:material:9, Microchip (Tier 3), item.oc.microchip2, false, net.minecraft.item.ItemStack
-opencomputers:material:20, Microcontroller Case (Tier 1), item.oc.microcontrollercase0, false, net.minecraft.item.ItemStack
-opencomputers:material:21, Microcontroller Case (Tier 2), item.oc.microcontrollercase1, false, net.minecraft.item.ItemStack
-opencomputers:material:22, Microcontroller Case (Creative), item.oc.microcontrollercase3, false, net.minecraft.item.ItemStack
-opencomputers:material:16, Numeric Keypad, item.oc.numpad, false, net.minecraft.item.ItemStack
-opencomputers:material:4, Printed Circuit Board (PCB), item.oc.printedcircuitboard, false, net.minecraft.item.ItemStack
-opencomputers:material:2, Raw Circuit Board, item.oc.rawcircuitboard, false, net.minecraft.item.ItemStack
-opencomputers:material:17, Tablet Case (Tier 1), item.oc.tabletcase0, false, net.minecraft.item.ItemStack
-opencomputers:material:18, Tablet Case (Tier 2), item.oc.tabletcase1, false, net.minecraft.item.ItemStack
-opencomputers:material:19, Tablet Case (Creative), item.oc.tabletcase3, false, net.minecraft.item.ItemStack
-opencomputers:material:6, Transistor, item.oc.transistor, false, net.minecraft.item.ItemStack
-opencomputers:tool:0, Analyzer, item.oc.analyzer, false, net.minecraft.item.ItemStack
-opencomputers:tool:1, Network Debugger, item.oc.debugger, false, net.minecraft.item.ItemStack
-opencomputers:tool:4, OpenComputers Manual, item.oc.manual, false, net.minecraft.item.ItemStack
-opencomputers:tool:5, Nanomachines, item.oc.nanomachines, false, net.minecraft.item.ItemStack
-opencomputers:tool:2, Remote Terminal, item.oc.terminal, false, net.minecraft.item.ItemStack
-opencomputers:tool:3, Texture Picker, item.oc.texturepicker, false, net.minecraft.item.ItemStack
-opencomputers:wrench, Scrench, item.oc.wrench, false, li.cil.oc.common.item.Wrench
-opencomputers:hoverboots, Hover Boots, item.oc.hoverboots, false, li.cil.oc.common.item.HoverBoots
-opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 1), item.oc.apu0, false, net.minecraft.item.ItemStack
-opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 2), item.oc.apu1, false, net.minecraft.item.ItemStack
-opencomputers:component:18, Accelerated Processing Unit (APU) (Creative), item.oc.apu2, false, net.minecraft.item.ItemStack
-opencomputers:component:3, Component Bus (Tier 1), item.oc.componentbus0, false, net.minecraft.item.ItemStack
-opencomputers:component:4, Component Bus (Tier 2), item.oc.componentbus1, false, net.minecraft.item.ItemStack
-opencomputers:component:5, Component Bus (Tier 3), item.oc.componentbus2, false, net.minecraft.item.ItemStack
-opencomputers:component:0, Central Processing Unit (CPU) (Tier 1), item.oc.cpu0, false, net.minecraft.item.ItemStack
-opencomputers:component:1, Central Processing Unit (CPU) (Tier 2), item.oc.cpu1, false, net.minecraft.item.ItemStack
-opencomputers:component:2, Central Processing Unit (CPU) (Tier 3), item.oc.cpu2, false, net.minecraft.item.ItemStack
-opencomputers:component:20, Disk Drive, item.oc.diskdrivemountable, false, net.minecraft.item.ItemStack
-opencomputers:component:6, Memory (Tier 1), item.oc.memory0, false, net.minecraft.item.ItemStack
-opencomputers:component:7, Memory (Tier 1.5), item.oc.memory1, false, net.minecraft.item.ItemStack
-opencomputers:component:8, Memory (Tier 2), item.oc.memory2, false, net.minecraft.item.ItemStack
-opencomputers:component:9, Memory (Tier 2.5), item.oc.memory3, false, net.minecraft.item.ItemStack
-opencomputers:component:10, Memory (Tier 3), item.oc.memory4, false, net.minecraft.item.ItemStack
-opencomputers:component:11, Memory (Tier 3.5), item.oc.memory5, false, net.minecraft.item.ItemStack
-opencomputers:component:13, Server (Tier 1), item.oc.server0, false, net.minecraft.item.ItemStack
-opencomputers:component:14, Server (Tier 2), item.oc.server1, false, net.minecraft.item.ItemStack
-opencomputers:component:15, Server (Tier 3), item.oc.server2, false, net.minecraft.item.ItemStack
-opencomputers:component:12, Server (Creative), item.oc.server3, false, net.minecraft.item.ItemStack
-opencomputers:component:19, Terminal Server, item.oc.terminalserver, false, net.minecraft.item.ItemStack
-opencomputers:card:10, Data Card (Tier 1), item.oc.datacard0, false, net.minecraft.item.ItemStack
-opencomputers:card:11, Data Card (Tier 2), item.oc.datacard1, false, net.minecraft.item.ItemStack
-opencomputers:card:12, Data Card (Tier 3), item.oc.datacard2, false, net.minecraft.item.ItemStack
-opencomputers:card:0, Debug Card, item.oc.debugcard, false, net.minecraft.item.ItemStack
-opencomputers:card:1, Graphics Card (Tier 1), item.oc.graphicscard0, false, net.minecraft.item.ItemStack
-opencomputers:card:2, Graphics Card (Tier 2), item.oc.graphicscard1, false, net.minecraft.item.ItemStack
-opencomputers:card:3, Graphics Card (Tier 3), item.oc.graphicscard2, false, net.minecraft.item.ItemStack
-opencomputers:card:8, Internet Card, item.oc.internetcard, false, net.minecraft.item.ItemStack
-opencomputers:card:9, Linked Card, item.oc.linkedcard, false, net.minecraft.item.ItemStack
-opencomputers:card:6, Network Card, item.oc.networkcard, false, net.minecraft.item.ItemStack
-opencomputers:card:4, Redstone Card (Tier 1), item.oc.redstonecard0, false, net.minecraft.item.ItemStack
-opencomputers:card:7, Wireless Network Card, item.oc.wirelessnetworkcard, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:0, Angel Upgrade, item.oc.upgradeangel, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:1, Battery Upgrade (Tier 1), item.oc.upgradebattery0, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:2, Battery Upgrade (Tier 2), item.oc.upgradebattery1, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:3, Battery Upgrade (Tier 3), item.oc.upgradebattery2, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:4, Chunkloader Upgrade, item.oc.upgradechunkloader, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:5, Card Container (Tier 1), item.oc.upgradecontainercard0, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:6, Card Container (Tier 2), item.oc.upgradecontainercard1, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:7, Card Container (Tier 3), item.oc.upgradecontainercard2, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:8, Upgrade Container (Tier 1), item.oc.upgradecontainerupgrade0, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:9, Upgrade Container (Tier 2), item.oc.upgradecontainerupgrade1, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:10, Upgrade Container (Tier 3), item.oc.upgradecontainerupgrade2, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:11, Crafting Upgrade, item.oc.upgradecrafting, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:12, Database Upgrade (Tier 1), item.oc.upgradedatabase0, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:13, Database Upgrade (Tier 2), item.oc.upgradedatabase1, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:14, Database Upgrade (Tier 3), item.oc.upgradedatabase2, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:15, Experience Upgrade, item.oc.upgradeexperience, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:16, Generator Upgrade, item.oc.upgradegenerator, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:27, Hover Upgrade (Tier 1), item.oc.upgradehover0, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:28, Hover Upgrade (Tier 2), item.oc.upgradehover1, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:17, Inventory Upgrade, item.oc.upgradeinventory, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:18, Inventory Controller Upgrade, item.oc.upgradeinventorycontroller, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:26, Leash Upgrade, item.oc.upgradeleash, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:30, MFU, item.oc.upgrademf, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:19, Navigation Upgrade, item.oc.upgradenavigation, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:20, Piston Upgrade, item.oc.upgradepiston, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:21, Sign I/O Upgrade, item.oc.upgradesign, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:22, Solar Generator Upgrade, item.oc.upgradesolargenerator, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:23, Tank Upgrade, item.oc.upgradetank, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:24, Tank Controller Upgrade, item.oc.upgradetankcontroller, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:25, Tractor Beam Upgrade, item.oc.upgradetractorbeam, false, net.minecraft.item.ItemStack
-opencomputers:upgrade:29, Trading Upgrade, item.oc.upgradetrading, false, net.minecraft.item.ItemStack
-opencomputers:storage:0, EEPROM, item.oc.eeprom, false, net.minecraft.item.ItemStack
-opencomputers:storage:1, Floppy Disk, item.oc.floppydisk, false, net.minecraft.item.ItemStack
-opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB), item.oc.harddiskdrive0, false, net.minecraft.item.ItemStack
-opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB), item.oc.harddiskdrive1, false, net.minecraft.item.ItemStack
-opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB), item.oc.harddiskdrive2, false, net.minecraft.item.ItemStack
-opencomputers:misc:1, Crecopter, item.oc.drone, false, net.minecraft.item.ItemStack
-opencomputers:misc:0, Microcontroller, tile.oc.microcontroller, true, net.minecraft.item.ItemStack
-opencomputers:misc:0, Creatix, robot, true, net.minecraft.item.ItemStack
-opencomputers:misc:0, Tablet, item.oc.tablet, false, net.minecraft.item.ItemStack
-opencomputers:misc:0, Hover Boots, item.oc.hoverboots, false, net.minecraft.item.ItemStack
-opencomputers:misc:0, EEPROM (Lua BIOS), item.oc.eeprom, false, net.minecraft.item.ItemStack
 quantumstorage:quantum_tank, Quantum Tank, tile.quantumstorage.quantum_tank, true, net.minecraft.item.ItemBlock
 quantumstorage:quantum_barrel, Quantum Barrel, tile.quantumstorage.quantum_barrel, true, net.minecraft.item.ItemBlock
 quantumstorage:crater, Crating Machine, tile.quantumstorage.crater, true, net.minecraft.item.ItemBlock
@@ -3647,26 +3507,26 @@ secretroomsmod:switch_probe, Switch Probe, item.switch_probe, false, com.wynpric
 secretroomsmod:programmable_switch_probe, Programmable Switch Probe, item.programmable_switch_probe, false, com.wynprice.secretroomsmod.items.ProgrammableSwitchProbe
 secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron), item.iron_exposing_helmet, false, com.wynprice.secretroomsmod.items.TrueSightHelmet
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond), item.diamond_exposing_helmet, false, com.wynprice.secretroomsmod.items.TrueSightHelmet
-secretroomsmod:ghost_block, Ghost Block, tile.ghost_block, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_stairs, Secret Stairs, tile.secret_stairs, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_lever, Secret lever, tile.secret_lever, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_redstone, Secret Redstone, tile.secret_redstone, true, net.minecraft.item.ItemBlock
-secretroomsmod:one_way_glass, One-Way Glass, tile.one_way_glass, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_wooden_button, Secret Wood Button, tile.secret_wooden_button, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_stone_button, Secret Stone Button, tile.secret_stone_button, true, net.minecraft.item.ItemBlock
-secretroomsmod:torch_lever, Torch Lever, tile.torch_lever, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_pressure_plate, Secret Pressure Plate, tile.secret_pressure_plate, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_light_pressure_plate, Secret Weighted Plate (light), tile.secret_light_pressure_plate, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_heavy_pressure_plate, Secret Weighted Plate (heavy), tile.secret_heavy_pressure_plate, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_player_pressure_plate, Secret Player Plate, tile.secret_player_pressure_plate, true, net.minecraft.item.ItemBlock
-secretroomsmod:solid_air, Solid Air, tile.solid_air, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_chest, Secret Chest, tile.secret_chest, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_wooden_trapdoor, Secret Wooden TrapDoor, tile.secret_wooden_trapdoor, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_iron_trapdoor, Secret Iron TrapDoor, tile.secret_iron_trapdoor, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_dispenser, Secret Dispenser, tile.secret_dispenser, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_trapped_chest, Secret Trapped Chest, tile.secret_trapped_chest, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_gate, Secret Gate Block, tile.secret_gate, true, net.minecraft.item.ItemBlock
-secretroomsmod:secret_light_detector, Secret Light Detector, tile.secret_light_detector, true, net.minecraft.item.ItemBlock
+secretroomsmod:ghost_block, Ghost Block, tile.ghost_block, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_stairs, Secret Stairs, tile.secret_stairs, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_lever, Secret lever, tile.secret_lever, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_redstone, Secret Redstone, tile.secret_redstone, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:one_way_glass, One-Way Glass, tile.one_way_glass, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_wooden_button, Secret Wood Button, tile.secret_wooden_button, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_stone_button, Secret Stone Button, tile.secret_stone_button, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:torch_lever, Torch Lever, tile.torch_lever, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_pressure_plate, Secret Pressure Plate, tile.secret_pressure_plate, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_light_pressure_plate, Secret Weighted Plate (light), tile.secret_light_pressure_plate, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_heavy_pressure_plate, Secret Weighted Plate (heavy), tile.secret_heavy_pressure_plate, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_player_pressure_plate, Secret Player Plate, tile.secret_player_pressure_plate, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:solid_air, Solid Air, tile.solid_air, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_chest, Secret Chest, tile.secret_chest, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_wooden_trapdoor, Secret Wooden TrapDoor, tile.secret_wooden_trapdoor, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_iron_trapdoor, Secret Iron TrapDoor, tile.secret_iron_trapdoor, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_dispenser, Secret Dispenser, tile.secret_dispenser, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_trapped_chest, Secret Trapped Chest, tile.secret_trapped_chest, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_gate, Secret Gate Block, tile.secret_gate, true, com.wynprice.secretroomsmod.base.SecretItemBlock
+secretroomsmod:secret_light_detector, Secret Light Detector, tile.secret_light_detector, true, com.wynprice.secretroomsmod.base.SecretItemBlock
 stevescarts:modularcart:0, Modular cart, item.SC2:ModularCart, false, net.minecraft.item.ItemStack
 stevescarts:modulecomponents:0, Wooden Wheels, item.SC2:wooden_wheels, false, net.minecraft.item.ItemStack
 stevescarts:modulecomponents:1, Iron Wheels, item.SC2:iron_wheels, false, net.minecraft.item.ItemStack
@@ -4201,19 +4061,6 @@ thermaldynamics:cover:0, Block of Copper Cover, item.thermaldynamics.cover, fals
 thermaldynamics:cover:0, Block of Tin Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Block of Bronze Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Ash Bricks Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Honey Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Simmering Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Stringy Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Frozen Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Dripping Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Silky Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Parched Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Mossy Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Mellow Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Block of Charcoal Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Wood Pile Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Decorative Wood Pile Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Loam Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Larch Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Teak Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Desert Acacia Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -4342,6 +4189,19 @@ thermaldynamics:cover:0, Birch Wood Planks (Fireproof) Cover, item.thermaldynami
 thermaldynamics:cover:0, Jungle Wood Planks (Fireproof) Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Acacia Wood Planks (Fireproof) Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Dark Oak Wood Planks (Fireproof) Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Block of Charcoal Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Wood Pile Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Decorative Wood Pile Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Loam Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Honey Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Simmering Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Stringy Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Frozen Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Dripping Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Silky Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Parched Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Mossy Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Mellow Comb Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Copper Ore Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Tin Ore Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Silver Ore Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -4407,8 +4267,6 @@ thermaldynamics:cover:0, Gravel Light Cover, item.thermaldynamics.cover, false, 
 thermaldynamics:cover:0, Stone Brick Light Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Iron Block Light Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Flux Block Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Block of Chamelium Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, End Stone Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Fertilized Dirt Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Lapis Glass Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Lapis Lamp Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -6616,6 +6474,7 @@ thermaldynamics:cover:0, Iron Spikes Cover, item.thermaldynamics.cover, false, n
 thermaldynamics:cover:0, Wither Boss Death Muffler Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Ender Dragon Death Muffler Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Dark Oak Stone Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Paper Lantern Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Twilight Oak Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Canopy Tree Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Mangrove Wood Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -6761,6 +6620,13 @@ thermaldynamics:cover:0, Block of Enderpearl Cover, item.thermaldynamics.cover, 
 thermaldynamics:cover:0, Casing Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Ender Casing Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Iron Casing Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Spruce Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Birch Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Jungle Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Acacia Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Dark Oak Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Lit Redstone Lamp Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
+thermaldynamics:cover:0, Blaze Lantern Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Marble Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Polished Marble Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Limestone Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -6896,13 +6762,6 @@ thermaldynamics:cover:0, Brown Quilted Wool Cover, item.thermaldynamics.cover, f
 thermaldynamics:cover:0, Green Quilted Wool Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Red Quilted Wool Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Black Quilted Wool Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Spruce Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Birch Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Jungle Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Acacia Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Dark Oak Bookshelf Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Lit Redstone Lamp Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
-thermaldynamics:cover:0, Blaze Lantern Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Machine Casing Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, Block of Quartz Enriched Iron Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
 thermaldynamics:cover:0, End Emerald Ore Cover, item.thermaldynamics.cover, false, net.minecraft.item.ItemStack
@@ -7005,6 +6864,8 @@ thermalexpansion:machine:7, Fractionating Still (Basic), tile.thermalexpansion.m
 thermalexpansion:machine:8, Fluid Transposer (Basic), tile.thermalexpansion.machine.transposer.name, true, net.minecraft.item.ItemStack
 thermalexpansion:machine:9, Energetic Infuser (Basic), tile.thermalexpansion.machine.charger.name, true, net.minecraft.item.ItemStack
 thermalexpansion:machine:10, Centrifugal Separator (Basic), tile.thermalexpansion.machine.centrifuge.name, true, net.minecraft.item.ItemStack
+thermalexpansion:machine:12, Alchemical Imbuer (Basic), tile.thermalexpansion.machine.brewer.name, true, net.minecraft.item.ItemStack
+thermalexpansion:machine:13, Arcane Ensorcellator (Basic), tile.thermalexpansion.machine.enchanter.name, true, net.minecraft.item.ItemStack
 thermalexpansion:machine:14, Glacial Precipitator (Basic), tile.thermalexpansion.machine.precipitator.name, true, net.minecraft.item.ItemStack
 thermalexpansion:machine:15, Igneous Extruder (Basic), tile.thermalexpansion.machine.extruder.name, true, net.minecraft.item.ItemStack
 thermalexpansion:device:0, Aqueous Accumulator, tile.thermalexpansion.device.water_gen.name, true, net.minecraft.item.ItemStack
@@ -7013,6 +6874,10 @@ thermalexpansion:device:2, Thermal Mediator, tile.thermalexpansion.device.heat_s
 thermalexpansion:device:3, Arboreal Extractor, tile.thermalexpansion.device.tapper.name, true, net.minecraft.item.ItemStack
 thermalexpansion:device:4, Aquatic Entangler, tile.thermalexpansion.device.fisher.name, true, net.minecraft.item.ItemStack
 thermalexpansion:device:5, Item Allocator, tile.thermalexpansion.device.item_buffer.name, true, net.minecraft.item.ItemStack
+thermalexpansion:device:6, Fluid Allocator, tile.thermalexpansion.device.fluid_buffer.name, true, net.minecraft.item.ItemStack
+thermalexpansion:device:7, Lexical Transmuter, tile.thermalexpansion.device.lexicon.name, true, net.minecraft.item.ItemStack
+thermalexpansion:device:8, Insightful Condenser, tile.thermalexpansion.device.xp_collector.name, true, net.minecraft.item.ItemStack
+thermalexpansion:device:9, Decoctive Diffuser, tile.thermalexpansion.device.diffuser.name, true, net.minecraft.item.ItemStack
 thermalexpansion:dynamo:0, Steam Dynamo (Basic), tile.thermalexpansion.dynamo.steam.name, true, net.minecraft.item.ItemStack
 thermalexpansion:dynamo:1, Magmatic Dynamo (Basic), tile.thermalexpansion.dynamo.magmatic.name, true, net.minecraft.item.ItemStack
 thermalexpansion:dynamo:2, Compression Dynamo (Basic), tile.thermalexpansion.dynamo.compression.name, true, net.minecraft.item.ItemStack
@@ -7023,57 +6888,6 @@ thermalexpansion:cell:0, Energy Cell (Basic), tile.thermalexpansion.storage.cell
 thermalexpansion:tank:0, Portable Tank (Basic), tile.thermalexpansion.storage.tank.name, true, net.minecraft.item.ItemStack
 thermalexpansion:cache:0, Cache (Basic), tile.thermalexpansion.storage.cache.name, true, net.minecraft.item.ItemStack
 thermalexpansion:strongbox:0, Strongbox (Basic), tile.thermalexpansion.storage.strongbox.name, true, net.minecraft.item.ItemStack
-thermalexpansion:frame:0, Machine Frame, item.thermalexpansion.frame.frameMachine, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:64, Device Frame, item.thermalexpansion.frame.frameDevice, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:128, Energy Cell Frame, item.thermalexpansion.frame.frameCell, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:129, Hardened Cell Frame, item.thermalexpansion.frame.frameCell1, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:130, Reinforced Cell Frame (Empty), item.thermalexpansion.frame.frameCell2, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:131, Signalum Cell Frame (Empty), item.thermalexpansion.frame.frameCell3, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:132, Resonant Cell Frame (Empty), item.thermalexpansion.frame.frameCell4, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:146, Reinforced Cell Frame (Full), item.thermalexpansion.frame.frameCell2Filled, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:147, Signalum Cell Frame (Full), item.thermalexpansion.frame.frameCell3Filled, false, net.minecraft.item.ItemStack
-thermalexpansion:frame:148, Resonant Cell Frame (Full), item.thermalexpansion.frame.frameCell4Filled, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:0, Hardened Upgrade Kit, item.thermalexpansion.upgrade.incremental1, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:1, Reinforced Upgrade Kit, item.thermalexpansion.upgrade.incremental2, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:2, Signalum Upgrade Kit, item.thermalexpansion.upgrade.incremental3, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:3, Resonant Upgrade Kit, item.thermalexpansion.upgrade.incremental4, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:33, Reinforced Conversion Kit, item.thermalexpansion.upgrade.full2, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:34, Signalum Conversion Kit, item.thermalexpansion.upgrade.full3, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:35, Resonant Conversion Kit, item.thermalexpansion.upgrade.full4, false, net.minecraft.item.ItemStack
-thermalexpansion:upgrade:256, Creative Conversion Kit, item.thermalexpansion.upgrade.creative, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:128, Augment: Auxiliary Reception Coil, item.thermalexpansion.augment.machinePower, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:129, Augment: Auxiliary Sieve, item.thermalexpansion.augment.machineSecondary, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:130, Augment: Nullification Chamber, item.thermalexpansion.augment.machineSecondaryNull, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:256, Augment: Trivection Chamber, item.thermalexpansion.augment.machineFurnaceFood, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:257, Augment: Flux Anodizers, item.thermalexpansion.augment.machineFurnaceOre, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:258, Augment: Pyrolytic Conversion, item.thermalexpansion.augment.machineFurnacePyrolysis, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:273, Augment: Tectonic Initiator, item.thermalexpansion.augment.machinePulverizerPetrotheum, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:288, Augment: Resin Funnel, item.thermalexpansion.augment.machineSawmillTapper, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:304, Augment: Pyro-Concentrator, item.thermalexpansion.augment.machineSmelterPyrotheum, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:320, Augment: Mycelium Substrate, item.thermalexpansion.augment.machineInsolatorMycelium, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:321, Augment: Nether Substrate, item.thermalexpansion.augment.machineInsolatorNether, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:322, Augment: Ender Substrate, item.thermalexpansion.augment.machineInsolatorEnd, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:323, Augment: Sapling Infuser, item.thermalexpansion.augment.machineInsolatorTree, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:336, Augment: Numismatic Press, item.thermalexpansion.augment.machineCompactorMint, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:352, Augment: Pyroconvective Loop, item.thermalexpansion.augment.machineCrucibleLava, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:400, Augment: Flux Linkage Concentrator, item.thermalexpansion.augment.machineChargerThroughput, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:481, Augment: Flurry Stratum, item.thermalexpansion.augment.machinePrecipitatorSnowLayer, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:482, Augment: Permafrost Compressor, item.thermalexpansion.augment.machinePrecipitatorPackedIce, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:496, Augment: Pyroclastic Injection, item.thermalexpansion.augment.machineExtruderNoWater, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:497, Augment: Granitic Subduction, item.thermalexpansion.augment.machineExtruderGranite, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:498, Augment: Dioritic Subduction, item.thermalexpansion.augment.machineExtruderDiorite, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:499, Augment: Andesitic Subduction, item.thermalexpansion.augment.machineExtruderAndesite, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:512, Augment: Auxiliary Transmission Coil, item.thermalexpansion.augment.dynamoPower, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:513, Augment: Fuel Catalyzer, item.thermalexpansion.augment.dynamoEfficiency, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:514, Augment: Transmission Coil Ducting, item.thermalexpansion.augment.dynamoCoilDuct, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:515, Augment: Excitation Field Limiter, item.thermalexpansion.augment.dynamoThrottle, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:576, Augment: Boiler Conversion, item.thermalexpansion.augment.dynamoBoiler, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:640, Augment: Turbine Conversion, item.thermalexpansion.augment.dynamoSteamTurbine, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:656, Augment: Isentropic Reservoir, item.thermalexpansion.augment.dynamoMagmaticCoolant, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:672, Augment: Closed-Loop Cooling, item.thermalexpansion.augment.dynamoCompressionCoolant, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:673, Augment: Ignition Plugs, item.thermalexpansion.augment.dynamoCompressionFuel, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:688, Augment: Elemental Catalyzer, item.thermalexpansion.augment.dynamoReactantElemental, false, net.minecraft.item.ItemStack
-thermalexpansion:augment:720, Augment: Lapidary Calibration, item.thermalexpansion.augment.dynamoNumismaticGem, false, net.minecraft.item.ItemStack
 thermalexpansion:capacitor:0, Flux Capacitor (Basic), item.thermalexpansion.capacitor.standard0, false, net.minecraft.item.ItemStack
 thermalexpansion:capacitor:0, Flux Capacitor (Basic), item.thermalexpansion.capacitor.standard0, false, net.minecraft.item.ItemStack
 thermalexpansion:capacitor:1, Flux Capacitor (Hardened), item.thermalexpansion.capacitor.standard1, false, net.minecraft.item.ItemStack
@@ -7091,6 +6905,53 @@ thermalexpansion:satchel:2, Satchel (Reinforced), item.thermalexpansion.satchel.
 thermalexpansion:satchel:3, Satchel (Signalum), item.thermalexpansion.satchel.standard3, false, net.minecraft.item.ItemStack
 thermalexpansion:satchel:4, Satchel (Resonant), item.thermalexpansion.satchel.standard4, false, net.minecraft.item.ItemStack
 thermalexpansion:satchel:32000, Satchel (Creative), item.thermalexpansion.satchel.creative, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:0, Machine Frame, item.thermalexpansion.frame.frameMachine, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:64, Device Frame, item.thermalexpansion.frame.frameDevice, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:128, Energy Cell Frame, item.thermalexpansion.frame.frameCell, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:129, Hardened Cell Frame, item.thermalexpansion.frame.frameCell1, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:130, Reinforced Cell Frame (Empty), item.thermalexpansion.frame.frameCell2, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:131, Signalum Cell Frame (Empty), item.thermalexpansion.frame.frameCell3, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:132, Resonant Cell Frame (Empty), item.thermalexpansion.frame.frameCell4, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:146, Reinforced Cell Frame (Full), item.thermalexpansion.frame.frameCell2Filled, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:147, Signalum Cell Frame (Full), item.thermalexpansion.frame.frameCell3Filled, false, net.minecraft.item.ItemStack
+thermalexpansion:frame:148, Resonant Cell Frame (Full), item.thermalexpansion.frame.frameCell4Filled, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:128, Augment: Auxiliary Reception Coil, item.thermalexpansion.augment.machinePower, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:129, Augment: Auxiliary Sieve, item.thermalexpansion.augment.machineSecondary, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:130, Augment: Nullification Chamber, item.thermalexpansion.augment.machineSecondaryNull, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:256, Augment: Trivection Chamber, item.thermalexpansion.augment.machineFurnaceFood, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:257, Augment: Flux Anodizers, item.thermalexpansion.augment.machineFurnaceOre, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:258, Augment: Pyrolytic Conversion, item.thermalexpansion.augment.machineFurnacePyrolysis, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:273, Augment: Tectonic Initiator, item.thermalexpansion.augment.machinePulverizerPetrotheum, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:288, Augment: Resin Funnel, item.thermalexpansion.augment.machineSawmillTapper, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:303, Augment: Metallurgical Recovery, item.thermalexpansion.augment.machineSmelterFlux, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:304, Augment: Pyro-Concentrator, item.thermalexpansion.augment.machineSmelterPyrotheum, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:320, Augment: Nutrient Recovery, item.thermalexpansion.augment.machineInsolatorFertilizer, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:323, Augment: Sapling Infuser, item.thermalexpansion.augment.machineInsolatorTree, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:324, Augment: Monoculture Cycle, item.thermalexpansion.augment.machineInsolatorMonoculture, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:336, Augment: Numismatic Press, item.thermalexpansion.augment.machineCompactorMint, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:352, Augment: Pyroconvective Loop, item.thermalexpansion.augment.machineCrucibleLava, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:368, Augment: Reflux Column, item.thermalexpansion.augment.machineRefineryOil, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:369, Augment: Alchemical Retort, item.thermalexpansion.augment.machineRefineryPotion, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:400, Augment: Flux Linkage Concentrator, item.thermalexpansion.augment.machineChargerThroughput, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:401, Augment: Flux Reconstruction, item.thermalexpansion.augment.machineChargerRepair, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:448, Augment: Reagent Recovery, item.thermalexpansion.augment.machineBrewerReagent, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:481, Augment: Flurry Stratum, item.thermalexpansion.augment.machinePrecipitatorSnowLayer, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:482, Augment: Permafrost Compressor, item.thermalexpansion.augment.machinePrecipitatorPackedIce, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:496, Augment: Pyroclastic Injection, item.thermalexpansion.augment.machineExtruderNoWater, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:497, Augment: Granitic Subduction, item.thermalexpansion.augment.machineExtruderGranite, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:498, Augment: Dioritic Subduction, item.thermalexpansion.augment.machineExtruderDiorite, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:499, Augment: Andesitic Subduction, item.thermalexpansion.augment.machineExtruderAndesite, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:512, Augment: Auxiliary Transmission Coil, item.thermalexpansion.augment.dynamoPower, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:513, Augment: Fuel Catalyzer, item.thermalexpansion.augment.dynamoEfficiency, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:514, Augment: Transmission Coil Ducting, item.thermalexpansion.augment.dynamoCoilDuct, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:515, Augment: Excitation Field Limiter, item.thermalexpansion.augment.dynamoThrottle, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:576, Augment: Boiler Conversion, item.thermalexpansion.augment.dynamoBoiler, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:640, Augment: Turbine Conversion, item.thermalexpansion.augment.dynamoSteamTurbine, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:656, Augment: Isentropic Reservoir, item.thermalexpansion.augment.dynamoMagmaticCoolant, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:672, Augment: Closed-Loop Cooling, item.thermalexpansion.augment.dynamoCompressionCoolant, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:673, Augment: Ignition Plugs, item.thermalexpansion.augment.dynamoCompressionFuel, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:688, Augment: Elemental Catalyzer, item.thermalexpansion.augment.dynamoReactantElemental, false, net.minecraft.item.ItemStack
+thermalexpansion:augment:720, Augment: Lapidary Calibration, item.thermalexpansion.augment.dynamoNumismaticGem, false, net.minecraft.item.ItemStack
 thermalexpansion:florb:0, Florb (Empty§r), item.thermalexpansion.florb.florb, false, net.minecraft.item.ItemStack
 thermalexpansion:florb:1, Magmatic Florb (Empty§r), item.thermalexpansion.florb.florbMagmatic, false, net.minecraft.item.ItemStack
 tinkersaddons:modifier_item:0, Amelioration Tome, tinkersaddons.amelioration_tome, false, net.minecraft.item.ItemStack
@@ -9778,20 +9639,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper, item.appliedenergi
 appliedenergistics2:facade:0, Cable Facade - Block of Tin, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Honey Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Silky Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Parched Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Wood Pile, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Ash Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Loam, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Larch Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Teak Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -9920,6 +9767,20 @@ appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks (Fireproof), item
 appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks (Fireproof), item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks (Fireproof), item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks (Fireproof), item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Wood Pile, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Ash Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Loam, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Honey Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Silky Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Parched Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Copper Ore, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Tin Ore, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Silver Ore, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -9985,8 +9846,6 @@ appliedenergistics2:facade:0, Cable Facade - Gravel Light, item.appliedenergisti
 appliedenergistics2:facade:0, Cable Facade - Stone Brick Light, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Iron Block Light, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Flux Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Block of Chamelium, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - End Stone, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Lapis Glass, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Lapis Lamp, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Dyeing Machine, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -12111,6 +11970,7 @@ appliedenergistics2:facade:0, Cable Facade - Iron Spikes, item.appliedenergistic
 appliedenergistics2:facade:0, Cable Facade - Wither Boss Death Muffler, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Ender Dragon Death Muffler, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Stone, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Paper Lantern, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Twilight Oak Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Canopy Tree Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Mangrove Wood, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -12196,6 +12056,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Fiery Metal, item.appliede
 appliedenergistics2:facade:0, Cable Facade - Block of Steeleaf, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Block of Arctic Fur, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Block of Carminite, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Spiral Stone Bricks [WIP], item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Restonia Crystal Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Palis Crystal Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Diamatine Crystal Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -12253,6 +12114,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Enderpearl, item.applieden
 appliedenergistics2:facade:0, Cable Facade - Casing, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Ender Casing, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Iron Casing, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Marble, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Limestone, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Brimstone, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -12286,7 +12148,6 @@ appliedenergistics2:facade:0, Cable Facade - Vertical White Stained Planks, item
 appliedenergistics2:facade:0, Cable Facade - Duskbound Block, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Duskbound Lantern, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Machine Casing, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Block of Quartz Enriched Iron, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
 appliedenergistics2:facade:0, Cable Facade - Soundproofing, item.appliedenergistics2.facade, false, net.minecraft.item.ItemStack
@@ -12665,33 +12526,33 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine, tile.tconstruct.slime_vin
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine, tile.tconstruct.slime_vine_purple_mid, true, net.minecraft.item.ItemStack
 tconstruct:slime_vine_purple:0, Purple Slimy Vine, tile.tconstruct.slime_vine_purple, true, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Blank Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Pan Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Hammer Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Sword Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Wide Guard Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Tough Tool Rod Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Pickaxe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Arrow Shaft Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Tool Rod Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Broad Axe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Fletching Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Bowstring Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Large Plate Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Large Sword Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Bowlimb Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Hand Guard Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Shovel Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Axe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Arrow Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Binding Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Excavator Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Bowlimb Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Tough Binding Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Scythe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Sign Plate Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Knife Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Arrow Shaft Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Cross Guard Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Sharpening Kit Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
-tconstruct:pattern:0, Large Sword Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Pan Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:pattern:0, Shard Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Wide Guard Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Large Plate Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Scythe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Fletching Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Knife Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Tough Tool Rod Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Arrow Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Axe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Excavator Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Sharpening Kit Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Hammer Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Pickaxe Head Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Sword Blade Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Sign Plate Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Tough Binding Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
+tconstruct:pattern:0, Bowstring Pattern, item.tconstruct.pattern, false, net.minecraft.item.ItemStack
 tconstruct:shard:0, Wooden Shard, item.tconstruct.shard, false, net.minecraft.item.ItemStack
 tconstruct:shard:0, Stone Shard, item.tconstruct.shard, false, net.minecraft.item.ItemStack
 tconstruct:shard:0, Flint Shard, item.tconstruct.shard, false, net.minecraft.item.ItemStack
@@ -14035,60 +13896,60 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs, tile.tconstruct.seared_stai
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs, tile.tconstruct.seared_stairs_tile, true, net.minecraft.item.ItemStack
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs, tile.tconstruct.seared_stairs_creeper, true, net.minecraft.item.ItemStack
 tconstruct:cast:0, Blank Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Pan Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Hammer Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Sword Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Wide Guard Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Tough Tool Rod Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Pickaxe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Tool Rod Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Broad Axe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Large Plate Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Large Sword Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Bowlimb Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Hand Guard Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Shovel Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Axe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Arrow Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Binding Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Excavator Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Bowlimb Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Tough Binding Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Scythe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Sign Plate Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Knife Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Cross Guard Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Sharpening Kit Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
-tconstruct:cast:0, Large Sword Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Pan Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast:0, Shard Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Wide Guard Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Large Plate Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Scythe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Knife Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Tough Tool Rod Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Arrow Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Axe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Excavator Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Sharpening Kit Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Hammer Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Pickaxe Head Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Sword Blade Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Sign Plate Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
+tconstruct:cast:0, Tough Binding Cast, item.tconstruct.cast, false, net.minecraft.item.ItemStack
 tconstruct:cast_custom:0, Ingot Cast, item.tconstruct.cast_custom.ingot, false, net.minecraft.item.ItemStack
 tconstruct:cast_custom:1, Nugget Cast, item.tconstruct.cast_custom.nugget, false, net.minecraft.item.ItemStack
 tconstruct:cast_custom:2, Gem Cast, item.tconstruct.cast_custom.gem, false, net.minecraft.item.ItemStack
 tconstruct:cast_custom:3, Plate Cast, item.tconstruct.cast_custom.plate, false, net.minecraft.item.ItemStack
 tconstruct:cast_custom:4, Gear Cast, item.tconstruct.cast_custom.gear, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Pan Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Hammer Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Sword Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Wide Guard Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Tool Rod Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Broad Axe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Large Plate Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Bowlimb Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Hand Guard Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Shovel Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Axe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Arrow Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Binding Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Excavator Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Bowlimb Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Tough Binding Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Scythe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Sign Plate Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Knife Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Cross Guard Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Pan Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:clay_cast:0, Shard Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Wide Guard Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Large Plate Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Scythe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Knife Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Arrow Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Axe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Excavator Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Hammer Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Sword Blade Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Sign Plate Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
+tconstruct:clay_cast:0, Tough Binding Clay Cast, item.tconstruct.clay_cast, false, net.minecraft.item.ItemStack
 tconstruct:stone_torch:0, Stone Torch, tile.tconstruct.stone_torch, true, net.minecraft.item.ItemStack
 tconstruct:stone_ladder:0, Stone Ladder, tile.tconstruct.stone_ladder, true, net.minecraft.item.ItemStack
 tconstruct:punji:0, Punji Sticks, tile.tconstruct.punji, true, net.minecraft.item.ItemStack
@@ -14790,16 +14651,6 @@ integratedtunnels:part_exporter_world_fluid_item, item.items.integratedtunnels.p
 integratedtunnels:part_importer_world_block_item, item.items.integratedtunnels.part_importer_world_block_item.name, item.items.integratedtunnels.part_importer_world_block_item, false, org.cyclops.integrateddynamics.core.item.ItemPart
 integratedtunnels:part_exporter_world_block_item, item.items.integratedtunnels.part_exporter_world_block_item.name, item.items.integratedtunnels.part_exporter_world_block_item, false, org.cyclops.integrateddynamics.core.item.ItemPart
 integratedtunnels:part_player_simulator_item, item.items.integratedtunnels.part_player_simulator_item.name, item.items.integratedtunnels.part_player_simulator_item, false, org.cyclops.integrateddynamics.core.item.ItemPart
-mob_grinding_utils:spikes, Iron Spikes, tile.mob_grinding_utils.spikes, true, mob_grinding_utils.ModBlocks$4
-mob_grinding_utils:fan, Mob Fan, tile.mob_grinding_utils.fan, true, mob_grinding_utils.ModBlocks$1
-mob_grinding_utils:absorption_hopper, Absorption Hopper, tile.mob_grinding_utils.absorption_hopper, true, mob_grinding_utils.ModBlocks$3
-mob_grinding_utils:tank, Singularity Tank, tile.mob_grinding_utils.tank, true, mob_grinding_utils.ModBlocks$5
-mob_grinding_utils:tank_sink, XP Drain Singularity Tank, tile.mob_grinding_utils.tank_sink, true, mob_grinding_utils.ModBlocks$6
-mob_grinding_utils:xp_tap, XP Tap, tile.mob_grinding_utils.xp_tap, true, mob_grinding_utils.ModBlocks$7
-mob_grinding_utils:wither_muffler, Wither Boss Death Muffler, tile.mob_grinding_utils.wither_muffler, true, mob_grinding_utils.ModBlocks$8
-mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler, tile.mob_grinding_utils.dragon_muffler, true, mob_grinding_utils.ModBlocks$9
-mob_grinding_utils:saw, Mob Masher, tile.mob_grinding_utils.saw, true, mob_grinding_utils.ModBlocks$2
-mob_grinding_utils:dark_oak_stone, Dark Oak Stone, tile.mob_grinding_utils.dark_oak_stone, true, mob_grinding_utils.ModBlocks$10
 mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade, item.mob_grinding_utils.fan_upgrade, false, net.minecraft.item.ItemStack
 mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade, item.mob_grinding_utils.fan_upgrade, false, net.minecraft.item.ItemStack
 mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade, item.mob_grinding_utils.fan_upgrade, false, net.minecraft.item.ItemStack
@@ -14813,11 +14664,22 @@ mob_grinding_utils:saw_upgrade:3, Mob Masher Upgrade, item.mob_grinding_utils.sa
 mob_grinding_utils:saw_upgrade:4, Mob Masher Upgrade, item.mob_grinding_utils.saw_upgrade, false, net.minecraft.item.ItemStack
 mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade, item.mob_grinding_utils.saw_upgrade, false, net.minecraft.item.ItemStack
 mob_grinding_utils:null_sword, Imaginary Not Here Sword, item.mob_grinding_utils.null_sword, false, mob_grinding_utils.items.ItemImaginaryInvisibleNotReallyThereSword
+mob_grinding_utils:spikes, Iron Spikes, tile.mob_grinding_utils.spikes, true, mob_grinding_utils.ModBlocks$4
+mob_grinding_utils:fan, Mob Fan, tile.mob_grinding_utils.fan, true, mob_grinding_utils.ModBlocks$1
+mob_grinding_utils:absorption_hopper, Absorption Hopper, tile.mob_grinding_utils.absorption_hopper, true, mob_grinding_utils.ModBlocks$3
+mob_grinding_utils:tank, Singularity Tank, tile.mob_grinding_utils.tank, true, mob_grinding_utils.ModBlocks$5
+mob_grinding_utils:tank_sink, XP Drain Singularity Tank, tile.mob_grinding_utils.tank_sink, true, mob_grinding_utils.ModBlocks$6
+mob_grinding_utils:xp_tap, XP Tap, tile.mob_grinding_utils.xp_tap, true, mob_grinding_utils.ModBlocks$7
+mob_grinding_utils:wither_muffler, Wither Boss Death Muffler, tile.mob_grinding_utils.wither_muffler, true, mob_grinding_utils.ModBlocks$8
+mob_grinding_utils:dragon_muffler, Ender Dragon Death Muffler, tile.mob_grinding_utils.dragon_muffler, true, mob_grinding_utils.ModBlocks$9
+mob_grinding_utils:saw, Mob Masher, tile.mob_grinding_utils.saw, true, mob_grinding_utils.ModBlocks$2
+mob_grinding_utils:dark_oak_stone, Dark Oak Stone, tile.mob_grinding_utils.dark_oak_stone, true, mob_grinding_utils.ModBlocks$10
 openglider:hang_glider_part:0, Glider Wing (Left), item.openglider:hang_glider_part.wing_left, false, net.minecraft.item.ItemStack
 openglider:hang_glider_part:1, Glider Wing (Right), item.openglider:hang_glider_part.wing_right, false, net.minecraft.item.ItemStack
 openglider:hang_glider_part:2, Scaffolding, item.openglider:hang_glider_part.scaffolding, false, net.minecraft.item.ItemStack
 openglider:hang_glider_basic, Hang Glider, item.openglider:hang_glider_basic, false, gr8pefish.openglider.common.item.ItemHangGliderBasic
 openglider:hang_glider_advanced, Advanced Hang Glider, item.openglider:hang_glider_advanced, false, gr8pefish.openglider.common.item.ItemHangGliderAdvanced
+paperlantern:paper_lantern, Paper Lantern, tile.paper_lantern, true, net.minecraft.item.ItemBlock
 quantumstorage:crate, Crate, item.quantumstorage.crate, false, QuantumStorage.items.ItemCrate
 quantumstorage:upgrade:0, Render Upgrade, item.quantumstorage.upgrade.render, false, net.minecraft.item.ItemStack
 quantumstorage:upgrade:1, Void Upgrade, item.quantumstorage.upgrade.void, false, net.minecraft.item.ItemStack
@@ -14828,6 +14690,17 @@ thuttech:devicelinker:0, Device Linker, item.devicelinker, false, net.minecraft.
 thuttech:devicelinker:0, ThutTech Manual, item.writtenBook, false, net.minecraft.item.ItemStack
 thuttech:lift:0, Elevator, tile.lift, true, net.minecraft.item.ItemStack
 thuttech:lift:1, Elevator Controller Block, tile.liftcontroller, true, net.minecraft.item.ItemStack
+sapturretmod:turret_placer, Defense Turret, item.sapturretmod:turret_placer, false, de.sanandrew.mods.turretmod.item.ItemTurret
+sapturretmod:turret_ammo, item.sapturretmod:turret_ammo.name, item.sapturretmod:turret_ammo, false, de.sanandrew.mods.turretmod.item.ItemAmmo
+sapturretmod:turret_control_unit, Turret Control Unit, item.sapturretmod:turret_control_unit, false, de.sanandrew.mods.turretmod.item.ItemTurretControlUnit
+sapturretmod:repair_kit, item.sapturretmod:turret_repair_kit.name, item.sapturretmod:turret_repair_kit, false, de.sanandrew.mods.turretmod.item.ItemRepairKit
+sapturretmod:assembly_upg_auto, Automation Upgrade, item.sapturretmod:turret_assembly_auto, false, de.sanandrew.mods.turretmod.item.ItemAssemblyUpgrade$Automation
+sapturretmod:assembly_upg_speed, Speed Upgrade, item.sapturretmod:turret_assembly_speed, false, de.sanandrew.mods.turretmod.item.ItemAssemblyUpgrade$Speed
+sapturretmod:assembly_upg_filter, Filter Upgrade, item.sapturretmod:turret_assembly_filter, false, de.sanandrew.mods.turretmod.item.ItemAssemblyUpgrade$Filter
+sapturretmod:turret_upgrade, Turret Upgrade, item.sapturretmod:turret_upgrade, false, de.sanandrew.mods.turretmod.item.ItemTurretUpgrade
+sapturretmod:turret_info, Turret Info Tablet, item.sapturretmod:turret_info, false, de.sanandrew.mods.turretmod.item.ItemTurretInfo
+sapturretmod:turret_assembly, Turret Assembly Table, tile.sapturretmod:turret_assembly, true, net.minecraft.item.ItemBlock
+sapturretmod:electrolyte_generator, Electrolyte Generator, tile.sapturretmod:potato_generator, true, net.minecraft.item.ItemBlock
 twilightforest:naga_scale, Naga Scale, item.nagaScale, false, twilightforest.item.ItemTF
 twilightforest:naga_chestplate, Naga Scale Tunic, item.plateNaga, false, twilightforest.item.ItemTFNagaArmor
 twilightforest:naga_leggings, Naga Scale Leggings, item.legsNaga, false, twilightforest.item.ItemTFNagaArmor
@@ -15104,6 +14977,7 @@ twilightforest:block_storage:1, Block of Fiery Metal, tile.BlockOfStorage.1, tru
 twilightforest:block_storage:2, Block of Steeleaf, tile.BlockOfStorage.2, true, net.minecraft.item.ItemStack
 twilightforest:block_storage:3, Block of Arctic Fur, tile.BlockOfStorage.3, true, net.minecraft.item.ItemStack
 twilightforest:block_storage:4, Block of Carminite, tile.BlockOfStorage.4, true, net.minecraft.item.ItemStack
+twilightforest:spiral_bricks, Spiral Stone Bricks [WIP], tile.SpiralBricks, true, net.minecraft.item.ItemBlock
 waystones:waystone, Waystone, tile.waystones:waystone, true, net.minecraft.item.ItemBlock
 waystones:return_scroll, Return Scroll, item.waystones:return_scroll, false, net.blay09.mods.waystones.item.ItemReturnScroll
 waystones:warp_scroll, Warp Scroll, item.waystones:warp_scroll, false, net.blay09.mods.waystones.item.ItemWarpScroll
@@ -15588,54 +15462,88 @@ flyringbaublemod:birdcage:0, Bird Cage, flyringbaublemod.birdcage.empty, false, 
 flyringbaublemod:birdcage:1, Pet Parrot (in bird cage), flyringbaublemod.birdcage.parrot, false, net.minecraft.item.ItemStack
 flyringbaublemod:pair, PAIR (Parrot Array Including Redundancy), item.flyringbaublemod.pair, false, portablejim.frb.ItemPAIR
 morphtool:tool, item.tool.name, item.tool, false, vazkii.morphtool.ItemMorphTool
-quark:ender_watcher, tile.ender_watcher.name, tile.ender_watcher, true, vazkii.arl.item.ItemModBlock
-quark:iron_rod, tile.iron_rod.name, tile.iron_rod, true, vazkii.arl.item.ItemModBlock
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name, tile.obsidian_pressure_plate, true, vazkii.arl.item.ItemModBlock
-quark:rain_detector, tile.rain_detector.name, tile.rain_detector, true, vazkii.arl.item.ItemModBlock
-quark:glowstone_dust_block, tile.glowstone_dust_block.name, tile.glowstone_dust_block, true, vazkii.arl.item.ItemModBlock
-quark:gunpowder_block, tile.gunpowder_block.name, tile.gunpowder_block, true, vazkii.arl.item.ItemModBlock
-quark:arrow_ender, item.arrow_ender.name, item.arrow_ender, false, vazkii.quark.misc.item.ItemModArrow
-quark:arrow_explosive, item.arrow_explosive.name, item.arrow_explosive, false, vazkii.quark.misc.item.ItemModArrow
-quark:arrow_torch, item.arrow_torch.name, item.arrow_torch, false, vazkii.quark.misc.item.ItemModArrow
-quark:slime_bucket:0, Slime in a Bucket, item.quark:slime_bucket_normal, false, net.minecraft.item.ItemStack
-quark:rune:0, White Rune, item.quark:rune_white, false, net.minecraft.item.ItemStack
-quark:rune:1, Orange Rune, item.quark:rune_orange, false, net.minecraft.item.ItemStack
-quark:rune:2, Magenta Rune, item.quark:rune_magenta, false, net.minecraft.item.ItemStack
-quark:rune:3, Light Blue Rune, item.quark:rune_light_blue, false, net.minecraft.item.ItemStack
-quark:rune:4, Yellow Rune, item.quark:rune_yellow, false, net.minecraft.item.ItemStack
-quark:rune:5, Lime Rune, item.quark:rune_lime, false, net.minecraft.item.ItemStack
-quark:rune:6, Pink Rune, item.quark:rune_pink, false, net.minecraft.item.ItemStack
-quark:rune:7, Gray Rune, item.quark:rune_gray, false, net.minecraft.item.ItemStack
-quark:rune:8, Light Gray Rune, item.quark:rune_silver, false, net.minecraft.item.ItemStack
-quark:rune:9, Cyan Rune, item.quark:rune_cyan, false, net.minecraft.item.ItemStack
-quark:rune:10, Purple Rune, item.quark:rune_purple, false, net.minecraft.item.ItemStack
-quark:rune:11, Blue Rune, item.quark:rune_blue, false, net.minecraft.item.ItemStack
-quark:rune:12, Brown Rune, item.quark:rune_brown, false, net.minecraft.item.ItemStack
-quark:rune:13, Green Rune, item.quark:rune_green, false, net.minecraft.item.ItemStack
-quark:rune:14, Red Rune, item.quark:rune_red, false, net.minecraft.item.ItemStack
-quark:rune:15, Black Rune, item.quark:rune_black, false, net.minecraft.item.ItemStack
-quark:rune:16, Rainbow Rune, item.quark:rune_rainbow, false, net.minecraft.item.ItemStack
-quark:black_ash, tile.black_ash.name, tile.black_ash, true, vazkii.quark.misc.item.ItemBlackAshBlock
-quark:ancient_tome, item.ancient_tome.name, item.ancient_tome, false, vazkii.quark.misc.item.ItemAncientTome
-quark:soul_powder, item.soul_powder.name, item.soul_powder, false, vazkii.quark.misc.item.ItemSoulPowder
-quark:enderdragon_scale, item.enderdragon_scale.name, item.enderdragon_scale, false, vazkii.quark.misc.item.ItemEnderdragonScale
-quark:glass_shards:0, Glass Shard, item.quark:glass_shard, false, net.minecraft.item.ItemStack
-quark:glass_shards:1, White Glass Shard, item.quark:glass_shard_white, false, net.minecraft.item.ItemStack
-quark:glass_shards:2, Orange Glass Shard, item.quark:glass_shard_orange, false, net.minecraft.item.ItemStack
-quark:glass_shards:3, Magenta Glass Shard, item.quark:glass_shard_magenta, false, net.minecraft.item.ItemStack
-quark:glass_shards:4, Light Blue Glass Shard, item.quark:glass_shard_light_blue, false, net.minecraft.item.ItemStack
-quark:glass_shards:5, Yellow Glass Shard, item.quark:glass_shard_yellow, false, net.minecraft.item.ItemStack
-quark:glass_shards:6, Lime Glass Shard, item.quark:glass_shard_lime, false, net.minecraft.item.ItemStack
-quark:glass_shards:7, Pink Glass Shard, item.quark:glass_shard_pink, false, net.minecraft.item.ItemStack
-quark:glass_shards:8, Gray Glass Shard, item.quark:glass_shard_gray, false, net.minecraft.item.ItemStack
-quark:glass_shards:9, Light Gray Glass Shard, item.quark:glass_shard_silver, false, net.minecraft.item.ItemStack
-quark:glass_shards:10, Cyan Glass Shard, item.quark:glass_shard_cyan, false, net.minecraft.item.ItemStack
-quark:glass_shards:11, Purple Glass Shard, item.quark:glass_shard_purple, false, net.minecraft.item.ItemStack
-quark:glass_shards:12, Blue Glass Shard, item.quark:glass_shard_blue, false, net.minecraft.item.ItemStack
-quark:glass_shards:13, Brown Glass Shard, item.quark:glass_shard_brown, false, net.minecraft.item.ItemStack
-quark:glass_shards:14, Green Glass Shard, item.quark:glass_shard_green, false, net.minecraft.item.ItemStack
-quark:glass_shards:15, Red Glass Shard, item.quark:glass_shard_red, false, net.minecraft.item.ItemStack
-quark:glass_shards:16, Black Glass Shard, item.quark:glass_shard_black, false, net.minecraft.item.ItemStack
+quark:witch_hat, item.witch_hat.name, item.witch_hat, false, vazkii.quark.vanity.item.ItemWitchHat
+quark:spruce_trapdoor, tile.spruce_trapdoor.name, tile.spruce_trapdoor, true, vazkii.arl.item.ItemModBlock
+quark:birch_trapdoor, tile.birch_trapdoor.name, tile.birch_trapdoor, true, vazkii.arl.item.ItemModBlock
+quark:jungle_trapdoor, tile.jungle_trapdoor.name, tile.jungle_trapdoor, true, vazkii.arl.item.ItemModBlock
+quark:acacia_trapdoor, tile.acacia_trapdoor.name, tile.acacia_trapdoor, true, vazkii.arl.item.ItemModBlock
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name, tile.dark_oak_trapdoor, true, vazkii.arl.item.ItemModBlock
+quark:paper_wall, tile.paper_wall.name, tile.paper_wall, true, vazkii.arl.item.ItemModBlock
+quark:iron_ladder, tile.iron_ladder.name, tile.iron_ladder, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name, tile.colored_flowerpot_white, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name, tile.colored_flowerpot_orange, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name, tile.colored_flowerpot_magenta, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name, tile.colored_flowerpot_light_blue, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name, tile.colored_flowerpot_yellow, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name, tile.colored_flowerpot_lime, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name, tile.colored_flowerpot_pink, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name, tile.colored_flowerpot_gray, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name, tile.colored_flowerpot_silver, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name, tile.colored_flowerpot_cyan, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name, tile.colored_flowerpot_purple, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name, tile.colored_flowerpot_blue, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name, tile.colored_flowerpot_brown, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name, tile.colored_flowerpot_green, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name, tile.colored_flowerpot_red, true, vazkii.arl.item.ItemModBlock
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name, tile.colored_flowerpot_black, true, vazkii.arl.item.ItemModBlock
+quark:custom_bookshelf:0, Spruce Bookshelf, tile.quark:bookshelf_spruce, true, net.minecraft.item.ItemStack
+quark:custom_bookshelf:1, Birch Bookshelf, tile.quark:bookshelf_birch, true, net.minecraft.item.ItemStack
+quark:custom_bookshelf:2, Jungle Bookshelf, tile.quark:bookshelf_jungle, true, net.minecraft.item.ItemStack
+quark:custom_bookshelf:3, Acacia Bookshelf, tile.quark:bookshelf_acacia, true, net.minecraft.item.ItemStack
+quark:custom_bookshelf:4, Dark Oak Bookshelf, tile.quark:bookshelf_dark_oak, true, net.minecraft.item.ItemStack
+quark:colored_item_frame:0, White Item Frame, item.quark:colored_item_frame_white, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:1, Orange Item Frame, item.quark:colored_item_frame_orange, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:2, Magenta Item Frame, item.quark:colored_item_frame_magenta, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:3, Light Blue Item Frame, item.quark:colored_item_frame_light_blue, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:4, Yellow Item Frame, item.quark:colored_item_frame_yellow, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:5, Lime Item Frame, item.quark:colored_item_frame_lime, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:6, Pink Item Frame, item.quark:colored_item_frame_pink, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:7, Gray Item Frame, item.quark:colored_item_frame_gray, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:8, Light Gray Item Frame, item.quark:colored_item_frame_silver, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:9, Cyan Item Frame, item.quark:colored_item_frame_cyan, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:10, Purple Item Frame, item.quark:colored_item_frame_purple, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:11, Blue Item Frame, item.quark:colored_item_frame_blue, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:12, Brown Item Frame, item.quark:colored_item_frame_brown, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:13, Green Item Frame, item.quark:colored_item_frame_green, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:14, Red Item Frame, item.quark:colored_item_frame_red, false, net.minecraft.item.ItemStack
+quark:colored_item_frame:15, Black Item Frame, item.quark:colored_item_frame_black, false, net.minecraft.item.ItemStack
+quark:lit_lamp, tile.lit_lamp.name, tile.lit_lamp, true, vazkii.arl.item.ItemModBlock
+quark:custom_chest:0, Spruce Chest, tile.quark:custom_chest_spruce, true, net.minecraft.item.ItemStack
+quark:custom_chest:1, Birch Chest, tile.quark:custom_chest_birch, true, net.minecraft.item.ItemStack
+quark:custom_chest:2, Jungle Chest, tile.quark:custom_chest_jungle, true, net.minecraft.item.ItemStack
+quark:custom_chest:3, Acacia Chest, tile.quark:custom_chest_acacia, true, net.minecraft.item.ItemStack
+quark:custom_chest:4, Dark Oak Chest, tile.quark:custom_chest_dark_oak, true, net.minecraft.item.ItemStack
+quark:custom_chest_trap:0, Spruce Trapped Chest, tile.quark:custom_chest_spruce_trap, true, net.minecraft.item.ItemStack
+quark:custom_chest_trap:1, Birch Trapped Chest, tile.quark:custom_chest_birch_trap, true, net.minecraft.item.ItemStack
+quark:custom_chest_trap:2, Jungle Trapped Chest, tile.quark:custom_chest_jungle_trap, true, net.minecraft.item.ItemStack
+quark:custom_chest_trap:3, Acacia Trapped Chest, tile.quark:custom_chest_acacia_trap, true, net.minecraft.item.ItemStack
+quark:custom_chest_trap:4, Dark Oak Trapped Chest, tile.quark:custom_chest_dark_oak_trap, true, net.minecraft.item.ItemStack
+quark:candle:0, White Candle, tile.quark:candle_white, true, net.minecraft.item.ItemStack
+quark:candle:1, Orange Candle, tile.quark:candle_orange, true, net.minecraft.item.ItemStack
+quark:candle:2, Magenta Candle, tile.quark:candle_magenta, true, net.minecraft.item.ItemStack
+quark:candle:3, Light Blue Candle, tile.quark:candle_light_blue, true, net.minecraft.item.ItemStack
+quark:candle:4, Yellow Candle, tile.quark:candle_yellow, true, net.minecraft.item.ItemStack
+quark:candle:5, Lime Candle, tile.quark:candle_lime, true, net.minecraft.item.ItemStack
+quark:candle:6, Pink Candle, tile.quark:candle_pink, true, net.minecraft.item.ItemStack
+quark:candle:7, Gray Candle, tile.quark:candle_gray, true, net.minecraft.item.ItemStack
+quark:candle:8, Light Gray Candle, tile.quark:candle_silver, true, net.minecraft.item.ItemStack
+quark:candle:9, Cyan Candle, tile.quark:candle_cyan, true, net.minecraft.item.ItemStack
+quark:candle:10, Purple Candle, tile.quark:candle_purple, true, net.minecraft.item.ItemStack
+quark:candle:11, Blue Candle, tile.quark:candle_blue, true, net.minecraft.item.ItemStack
+quark:candle:12, Brown Candle, tile.quark:candle_brown, true, net.minecraft.item.ItemStack
+quark:candle:13, Green Candle, tile.quark:candle_green, true, net.minecraft.item.ItemStack
+quark:candle:14, Red Candle, tile.quark:candle_red, true, net.minecraft.item.ItemStack
+quark:candle:15, Black Candle, tile.quark:candle_black, true, net.minecraft.item.ItemStack
+quark:tallow, item.tallow.name, item.tallow, false, vazkii.quark.decoration.item.ItemTallow
+quark:blaze_lantern, tile.blaze_lantern.name, tile.blaze_lantern, true, vazkii.arl.item.ItemModBlock
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name, tile.nether_brick_fence_gate, true, vazkii.arl.item.ItemModBlock
+quark:leaf_carpet:0, Oak Leaf Carpet, tile.quark:oak_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:leaf_carpet:1, Spruce Leaf Carpet, tile.quark:spruce_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:leaf_carpet:2, Birch Leaf Carpet, tile.quark:birch_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:leaf_carpet:3, Jungle Leaf Carpet, tile.quark:jungle_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:leaf_carpet:4, Acacia Leaf Carpet, tile.quark:acacia_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:leaf_carpet:5, Dark Oak Leaf Carpet, tile.quark:dark_oak_leaf_carpet, true, net.minecraft.item.ItemStack
+quark:glass_item_frame, item.glass_item_frame.name, item.glass_item_frame, false, vazkii.quark.decoration.item.ItemGlassItemFrame
 quark:pirate_hat, item.pirate_hat.name, item.pirate_hat, false, vazkii.quark.world.item.ItemPirateHat
 quark:marble:0, Marble, tile.quark:stone_marble, true, net.minecraft.item.ItemStack
 quark:marble:1, Polished Marble, tile.quark:stone_marble_smooth, true, net.minecraft.item.ItemStack
@@ -15680,7 +15588,50 @@ quark:stone_basalt_slab:0, Basalt Slab, tile.quark:stone_basalt_slab, true, net.
 quark:stone_basalt_stairs, tile.stone_basalt_stairs.name, tile.stone_basalt_stairs, true, vazkii.arl.item.ItemModBlock
 quark:basalt_wall, tile.basalt_wall.name, tile.basalt_wall, true, vazkii.arl.item.ItemModBlock
 quark:smoker, tile.smoker.name, tile.smoker, true, vazkii.arl.item.ItemModBlock
-quark:witch_hat, item.witch_hat.name, item.witch_hat, false, vazkii.quark.vanity.item.ItemWitchHat
+quark:glowstone_dust_block, tile.glowstone_dust_block.name, tile.glowstone_dust_block, true, vazkii.arl.item.ItemModBlock
+quark:gunpowder_block, tile.gunpowder_block.name, tile.gunpowder_block, true, vazkii.arl.item.ItemModBlock
+quark:arrow_ender, item.arrow_ender.name, item.arrow_ender, false, vazkii.quark.misc.item.ItemModArrow
+quark:arrow_explosive, item.arrow_explosive.name, item.arrow_explosive, false, vazkii.quark.misc.item.ItemModArrow
+quark:arrow_torch, item.arrow_torch.name, item.arrow_torch, false, vazkii.quark.misc.item.ItemModArrow
+quark:slime_bucket:0, Slime in a Bucket, item.quark:slime_bucket_normal, false, net.minecraft.item.ItemStack
+quark:rune:0, White Rune, item.quark:rune_white, false, net.minecraft.item.ItemStack
+quark:rune:1, Orange Rune, item.quark:rune_orange, false, net.minecraft.item.ItemStack
+quark:rune:2, Magenta Rune, item.quark:rune_magenta, false, net.minecraft.item.ItemStack
+quark:rune:3, Light Blue Rune, item.quark:rune_light_blue, false, net.minecraft.item.ItemStack
+quark:rune:4, Yellow Rune, item.quark:rune_yellow, false, net.minecraft.item.ItemStack
+quark:rune:5, Lime Rune, item.quark:rune_lime, false, net.minecraft.item.ItemStack
+quark:rune:6, Pink Rune, item.quark:rune_pink, false, net.minecraft.item.ItemStack
+quark:rune:7, Gray Rune, item.quark:rune_gray, false, net.minecraft.item.ItemStack
+quark:rune:8, Light Gray Rune, item.quark:rune_silver, false, net.minecraft.item.ItemStack
+quark:rune:9, Cyan Rune, item.quark:rune_cyan, false, net.minecraft.item.ItemStack
+quark:rune:10, Purple Rune, item.quark:rune_purple, false, net.minecraft.item.ItemStack
+quark:rune:11, Blue Rune, item.quark:rune_blue, false, net.minecraft.item.ItemStack
+quark:rune:12, Brown Rune, item.quark:rune_brown, false, net.minecraft.item.ItemStack
+quark:rune:13, Green Rune, item.quark:rune_green, false, net.minecraft.item.ItemStack
+quark:rune:14, Red Rune, item.quark:rune_red, false, net.minecraft.item.ItemStack
+quark:rune:15, Black Rune, item.quark:rune_black, false, net.minecraft.item.ItemStack
+quark:rune:16, Rainbow Rune, item.quark:rune_rainbow, false, net.minecraft.item.ItemStack
+quark:black_ash, tile.black_ash.name, tile.black_ash, true, vazkii.quark.misc.item.ItemBlackAshBlock
+quark:ancient_tome, item.ancient_tome.name, item.ancient_tome, false, vazkii.quark.misc.item.ItemAncientTome
+quark:soul_powder, item.soul_powder.name, item.soul_powder, false, vazkii.quark.misc.item.ItemSoulPowder
+quark:enderdragon_scale, item.enderdragon_scale.name, item.enderdragon_scale, false, vazkii.quark.misc.item.ItemEnderdragonScale
+quark:glass_shards:0, Glass Shard, item.quark:glass_shard, false, net.minecraft.item.ItemStack
+quark:glass_shards:1, White Glass Shard, item.quark:glass_shard_white, false, net.minecraft.item.ItemStack
+quark:glass_shards:2, Orange Glass Shard, item.quark:glass_shard_orange, false, net.minecraft.item.ItemStack
+quark:glass_shards:3, Magenta Glass Shard, item.quark:glass_shard_magenta, false, net.minecraft.item.ItemStack
+quark:glass_shards:4, Light Blue Glass Shard, item.quark:glass_shard_light_blue, false, net.minecraft.item.ItemStack
+quark:glass_shards:5, Yellow Glass Shard, item.quark:glass_shard_yellow, false, net.minecraft.item.ItemStack
+quark:glass_shards:6, Lime Glass Shard, item.quark:glass_shard_lime, false, net.minecraft.item.ItemStack
+quark:glass_shards:7, Pink Glass Shard, item.quark:glass_shard_pink, false, net.minecraft.item.ItemStack
+quark:glass_shards:8, Gray Glass Shard, item.quark:glass_shard_gray, false, net.minecraft.item.ItemStack
+quark:glass_shards:9, Light Gray Glass Shard, item.quark:glass_shard_silver, false, net.minecraft.item.ItemStack
+quark:glass_shards:10, Cyan Glass Shard, item.quark:glass_shard_cyan, false, net.minecraft.item.ItemStack
+quark:glass_shards:11, Purple Glass Shard, item.quark:glass_shard_purple, false, net.minecraft.item.ItemStack
+quark:glass_shards:12, Blue Glass Shard, item.quark:glass_shard_blue, false, net.minecraft.item.ItemStack
+quark:glass_shards:13, Brown Glass Shard, item.quark:glass_shard_brown, false, net.minecraft.item.ItemStack
+quark:glass_shards:14, Green Glass Shard, item.quark:glass_shard_green, false, net.minecraft.item.ItemStack
+quark:glass_shards:15, Red Glass Shard, item.quark:glass_shard_red, false, net.minecraft.item.ItemStack
+quark:glass_shards:16, Black Glass Shard, item.quark:glass_shard_black, false, net.minecraft.item.ItemStack
 quark:reed_block, tile.reed_block.name, tile.reed_block, true, vazkii.arl.item.ItemModBlock
 quark:reed_block_stairs, tile.reed_block_stairs.name, tile.reed_block_stairs, true, vazkii.arl.item.ItemModBlock
 quark:reed_block_slab:0, Sugar Cane Slab, tile.quark:reed_block_slab, true, net.minecraft.item.ItemStack
@@ -15967,87 +15918,10 @@ quark:quilted_wool:12, Brown Quilted Wool, tile.quark:wool_quilted_brown, true, 
 quark:quilted_wool:13, Green Quilted Wool, tile.quark:wool_quilted_green, true, net.minecraft.item.ItemStack
 quark:quilted_wool:14, Red Quilted Wool, tile.quark:wool_quilted_red, true, net.minecraft.item.ItemStack
 quark:quilted_wool:15, Black Quilted Wool, tile.quark:wool_quilted_black, true, net.minecraft.item.ItemStack
-quark:spruce_trapdoor, tile.spruce_trapdoor.name, tile.spruce_trapdoor, true, vazkii.arl.item.ItemModBlock
-quark:birch_trapdoor, tile.birch_trapdoor.name, tile.birch_trapdoor, true, vazkii.arl.item.ItemModBlock
-quark:jungle_trapdoor, tile.jungle_trapdoor.name, tile.jungle_trapdoor, true, vazkii.arl.item.ItemModBlock
-quark:acacia_trapdoor, tile.acacia_trapdoor.name, tile.acacia_trapdoor, true, vazkii.arl.item.ItemModBlock
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name, tile.dark_oak_trapdoor, true, vazkii.arl.item.ItemModBlock
-quark:paper_wall, tile.paper_wall.name, tile.paper_wall, true, vazkii.arl.item.ItemModBlock
-quark:iron_ladder, tile.iron_ladder.name, tile.iron_ladder, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name, tile.colored_flowerpot_white, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name, tile.colored_flowerpot_orange, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name, tile.colored_flowerpot_magenta, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name, tile.colored_flowerpot_light_blue, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name, tile.colored_flowerpot_yellow, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name, tile.colored_flowerpot_lime, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name, tile.colored_flowerpot_pink, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name, tile.colored_flowerpot_gray, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name, tile.colored_flowerpot_silver, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name, tile.colored_flowerpot_cyan, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name, tile.colored_flowerpot_purple, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name, tile.colored_flowerpot_blue, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name, tile.colored_flowerpot_brown, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name, tile.colored_flowerpot_green, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name, tile.colored_flowerpot_red, true, vazkii.arl.item.ItemModBlock
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name, tile.colored_flowerpot_black, true, vazkii.arl.item.ItemModBlock
-quark:custom_bookshelf:0, Spruce Bookshelf, tile.quark:bookshelf_spruce, true, net.minecraft.item.ItemStack
-quark:custom_bookshelf:1, Birch Bookshelf, tile.quark:bookshelf_birch, true, net.minecraft.item.ItemStack
-quark:custom_bookshelf:2, Jungle Bookshelf, tile.quark:bookshelf_jungle, true, net.minecraft.item.ItemStack
-quark:custom_bookshelf:3, Acacia Bookshelf, tile.quark:bookshelf_acacia, true, net.minecraft.item.ItemStack
-quark:custom_bookshelf:4, Dark Oak Bookshelf, tile.quark:bookshelf_dark_oak, true, net.minecraft.item.ItemStack
-quark:colored_item_frame:0, White Item Frame, item.quark:colored_item_frame_white, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:1, Orange Item Frame, item.quark:colored_item_frame_orange, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:2, Magenta Item Frame, item.quark:colored_item_frame_magenta, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:3, Light Blue Item Frame, item.quark:colored_item_frame_light_blue, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:4, Yellow Item Frame, item.quark:colored_item_frame_yellow, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:5, Lime Item Frame, item.quark:colored_item_frame_lime, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:6, Pink Item Frame, item.quark:colored_item_frame_pink, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:7, Gray Item Frame, item.quark:colored_item_frame_gray, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:8, Light Gray Item Frame, item.quark:colored_item_frame_silver, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:9, Cyan Item Frame, item.quark:colored_item_frame_cyan, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:10, Purple Item Frame, item.quark:colored_item_frame_purple, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:11, Blue Item Frame, item.quark:colored_item_frame_blue, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:12, Brown Item Frame, item.quark:colored_item_frame_brown, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:13, Green Item Frame, item.quark:colored_item_frame_green, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:14, Red Item Frame, item.quark:colored_item_frame_red, false, net.minecraft.item.ItemStack
-quark:colored_item_frame:15, Black Item Frame, item.quark:colored_item_frame_black, false, net.minecraft.item.ItemStack
-quark:lit_lamp, tile.lit_lamp.name, tile.lit_lamp, true, vazkii.arl.item.ItemModBlock
-quark:custom_chest:0, Spruce Chest, tile.quark:custom_chest_spruce, true, net.minecraft.item.ItemStack
-quark:custom_chest:1, Birch Chest, tile.quark:custom_chest_birch, true, net.minecraft.item.ItemStack
-quark:custom_chest:2, Jungle Chest, tile.quark:custom_chest_jungle, true, net.minecraft.item.ItemStack
-quark:custom_chest:3, Acacia Chest, tile.quark:custom_chest_acacia, true, net.minecraft.item.ItemStack
-quark:custom_chest:4, Dark Oak Chest, tile.quark:custom_chest_dark_oak, true, net.minecraft.item.ItemStack
-quark:custom_chest_trap:0, Spruce Trapped Chest, tile.quark:custom_chest_spruce_trap, true, net.minecraft.item.ItemStack
-quark:custom_chest_trap:1, Birch Trapped Chest, tile.quark:custom_chest_birch_trap, true, net.minecraft.item.ItemStack
-quark:custom_chest_trap:2, Jungle Trapped Chest, tile.quark:custom_chest_jungle_trap, true, net.minecraft.item.ItemStack
-quark:custom_chest_trap:3, Acacia Trapped Chest, tile.quark:custom_chest_acacia_trap, true, net.minecraft.item.ItemStack
-quark:custom_chest_trap:4, Dark Oak Trapped Chest, tile.quark:custom_chest_dark_oak_trap, true, net.minecraft.item.ItemStack
-quark:candle:0, White Candle, tile.quark:candle_white, true, net.minecraft.item.ItemStack
-quark:candle:1, Orange Candle, tile.quark:candle_orange, true, net.minecraft.item.ItemStack
-quark:candle:2, Magenta Candle, tile.quark:candle_magenta, true, net.minecraft.item.ItemStack
-quark:candle:3, Light Blue Candle, tile.quark:candle_light_blue, true, net.minecraft.item.ItemStack
-quark:candle:4, Yellow Candle, tile.quark:candle_yellow, true, net.minecraft.item.ItemStack
-quark:candle:5, Lime Candle, tile.quark:candle_lime, true, net.minecraft.item.ItemStack
-quark:candle:6, Pink Candle, tile.quark:candle_pink, true, net.minecraft.item.ItemStack
-quark:candle:7, Gray Candle, tile.quark:candle_gray, true, net.minecraft.item.ItemStack
-quark:candle:8, Light Gray Candle, tile.quark:candle_silver, true, net.minecraft.item.ItemStack
-quark:candle:9, Cyan Candle, tile.quark:candle_cyan, true, net.minecraft.item.ItemStack
-quark:candle:10, Purple Candle, tile.quark:candle_purple, true, net.minecraft.item.ItemStack
-quark:candle:11, Blue Candle, tile.quark:candle_blue, true, net.minecraft.item.ItemStack
-quark:candle:12, Brown Candle, tile.quark:candle_brown, true, net.minecraft.item.ItemStack
-quark:candle:13, Green Candle, tile.quark:candle_green, true, net.minecraft.item.ItemStack
-quark:candle:14, Red Candle, tile.quark:candle_red, true, net.minecraft.item.ItemStack
-quark:candle:15, Black Candle, tile.quark:candle_black, true, net.minecraft.item.ItemStack
-quark:tallow, item.tallow.name, item.tallow, false, vazkii.quark.decoration.item.ItemTallow
-quark:blaze_lantern, tile.blaze_lantern.name, tile.blaze_lantern, true, vazkii.arl.item.ItemModBlock
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name, tile.nether_brick_fence_gate, true, vazkii.arl.item.ItemModBlock
-quark:leaf_carpet:0, Oak Leaf Carpet, tile.quark:oak_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:leaf_carpet:1, Spruce Leaf Carpet, tile.quark:spruce_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:leaf_carpet:2, Birch Leaf Carpet, tile.quark:birch_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:leaf_carpet:3, Jungle Leaf Carpet, tile.quark:jungle_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:leaf_carpet:4, Acacia Leaf Carpet, tile.quark:acacia_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:leaf_carpet:5, Dark Oak Leaf Carpet, tile.quark:dark_oak_leaf_carpet, true, net.minecraft.item.ItemStack
-quark:glass_item_frame, item.glass_item_frame.name, item.glass_item_frame, false, vazkii.quark.decoration.item.ItemGlassItemFrame
+quark:ender_watcher, tile.ender_watcher.name, tile.ender_watcher, true, vazkii.arl.item.ItemModBlock
+quark:iron_rod, tile.iron_rod.name, tile.iron_rod, true, vazkii.arl.item.ItemModBlock
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name, tile.obsidian_pressure_plate, true, vazkii.arl.item.ItemModBlock
+quark:rain_detector, tile.rain_detector.name, tile.rain_detector, true, vazkii.arl.item.ItemModBlock
 backpacks16840:unknown_item:0, Unknown Item, item.unknown_item, false, net.minecraft.item.ItemStack
 backpacks16840:backpack:0, Black Backpack, item.backpack.black, false, net.minecraft.item.ItemStack
 backpacks16840:backpack:1, Red Backpack, item.backpack.red, false, net.minecraft.item.ItemStack
@@ -16075,6 +15949,65 @@ betterbuilderswands:wandstone, Stone Wand, item.betterbuilderswands.wandbasic, f
 betterbuilderswands:wandiron, Iron Wand, item.betterbuilderswands.wandadvanced, false, portablejim.bbw.core.items.ItemRestrictedWandAdvanced
 betterbuilderswands:wanddiamond, Diamond Wand, item.betterbuilderswands.wandunrestricted, false, portablejim.bbw.core.items.ItemUnrestrictedWand
 betterbuilderswands:wandunbreakable, Unbreakable Wand, item.betterbuilderswands.wandunbreakable, false, portablejim.bbw.core.items.ItemUnrestrictedWand
+computercraft:computer:0, Computer, tile.computercraft:computer, true, net.minecraft.item.ItemStack
+computercraft:computer:16384, Advanced Computer, tile.computercraft:advanced_computer, true, net.minecraft.item.ItemStack
+computercraft:peripheral:0, Disk Drive, tile.computercraft:drive, true, net.minecraft.item.ItemStack
+computercraft:peripheral:3, Printer, tile.computercraft:printer, true, net.minecraft.item.ItemStack
+computercraft:peripheral:2, Monitor, tile.computercraft:monitor, true, net.minecraft.item.ItemStack
+computercraft:peripheral:4, Advanced Monitor, tile.computercraft:advanced_monitor, true, net.minecraft.item.ItemStack
+computercraft:peripheral:1, Wireless Modem, tile.computercraft:wireless_modem, true, net.minecraft.item.ItemStack
+computercraft:peripheral:5, Speaker, tile.computercraft:speaker, true, net.minecraft.item.ItemStack
+computercraft:cable:1, Wired Modem, tile.computercraft:wired_modem, true, net.minecraft.item.ItemStack
+computercraft:cable:0, Networking Cable, tile.computercraft:cable, true, net.minecraft.item.ItemStack
+computercraft:command_computer:0, Command Computer, tile.computercraft:command_computer, true, net.minecraft.item.ItemStack
+computercraft:advanced_modem:0, Ender Modem, tile.computercraft:advanced_modem, true, net.minecraft.item.ItemStack
+computercraft:disk:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
+computercraft:printout:0, Printed Page, item.computercraft:page, false, net.minecraft.item.ItemStack
+computercraft:printout:1, Printed Pages, item.computercraft:pages, false, net.minecraft.item.ItemStack
+computercraft:printout:2, Printed Book, item.computercraft:book, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:0, Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:0, Wireless Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:0, Ender Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:0, Noisy Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:1, Advanced Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:1, Advanced Wireless Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:1, Advanced Ender Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:pocket_computer:1, Advanced Noisy Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
+computercraft:turtle:0, Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle:1, Mining Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Felling Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Melee Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Digging Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Farming Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Crafty Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Wireless Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Ender Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_expanded:0, Noisy Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Mining Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Felling Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Melee Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Digging Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Farming Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Crafty Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Wireless Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Ender Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
+computercraft:turtle_advanced:0, Advanced Noisy Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
 refinedstorage:controller:0, Controller, block.refinedstorage:controller.0, true, net.minecraft.item.ItemStack
 refinedstorage:controller:1, Creative Controller, block.refinedstorage:controller.1, true, net.minecraft.item.ItemStack
 refinedstorage:grid:0, Grid, block.refinedstorage:grid.0, true, net.minecraft.item.ItemStack
@@ -16172,67 +16105,9 @@ refinedstorage:filter, Filter, item.refinedstorage:filter, false, com.raoulvdber
 refinedstorage:network_card, Network Card, item.refinedstorage:network_card, false, com.raoulvdberge.refinedstorage.item.ItemNetworkCard
 refinedstorage:wrench, Wrench, item.refinedstorage:wrench, false, com.raoulvdberge.refinedstorage.item.ItemWrench
 refinedstorage:security_card, Security Card, item.refinedstorage:security_card, false, com.raoulvdberge.refinedstorage.item.ItemSecurityCard
-computercraft:computer:0, Computer, tile.computercraft:computer, true, net.minecraft.item.ItemStack
-computercraft:computer:16384, Advanced Computer, tile.computercraft:advanced_computer, true, net.minecraft.item.ItemStack
-computercraft:peripheral:0, Disk Drive, tile.computercraft:drive, true, net.minecraft.item.ItemStack
-computercraft:peripheral:3, Printer, tile.computercraft:printer, true, net.minecraft.item.ItemStack
-computercraft:peripheral:2, Monitor, tile.computercraft:monitor, true, net.minecraft.item.ItemStack
-computercraft:peripheral:4, Advanced Monitor, tile.computercraft:advanced_monitor, true, net.minecraft.item.ItemStack
-computercraft:peripheral:1, Wireless Modem, tile.computercraft:wireless_modem, true, net.minecraft.item.ItemStack
-computercraft:peripheral:5, Speaker, tile.computercraft:speaker, true, net.minecraft.item.ItemStack
-computercraft:cable:1, Wired Modem, tile.computercraft:wired_modem, true, net.minecraft.item.ItemStack
-computercraft:cable:0, Networking Cable, tile.computercraft:cable, true, net.minecraft.item.ItemStack
-computercraft:command_computer:0, Command Computer, tile.computercraft:command_computer, true, net.minecraft.item.ItemStack
-computercraft:advanced_modem:0, Ender Modem, tile.computercraft:advanced_modem, true, net.minecraft.item.ItemStack
-computercraft:disk:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:disk_expanded:0, Floppy Disk, item.computercraft:disk, false, net.minecraft.item.ItemStack
-computercraft:printout:0, Printed Page, item.computercraft:page, false, net.minecraft.item.ItemStack
-computercraft:printout:1, Printed Pages, item.computercraft:pages, false, net.minecraft.item.ItemStack
-computercraft:printout:2, Printed Book, item.computercraft:book, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:0, Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:0, Wireless Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:0, Ender Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:0, Noisy Pocket Computer, item.computercraft:pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:1, Advanced Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:1, Advanced Wireless Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:1, Advanced Ender Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:pocket_computer:1, Advanced Noisy Pocket Computer, item.computercraft:advanced_pocket_computer, false, net.minecraft.item.ItemStack
-computercraft:turtle:0, Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle:1, Mining Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Felling Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Melee Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Digging Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Farming Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Crafty Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Wireless Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Ender Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_expanded:0, Noisy Turtle, tile.computercraft:turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Mining Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Felling Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Melee Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Digging Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Farming Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Crafty Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Wireless Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Ender Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
-computercraft:turtle_advanced:0, Advanced Noisy Turtle, tile.computercraft:advanced_turtle, true, net.minecraft.item.ItemStack
 cyclicmagic:charm_air, Air Charm, item.charm_air, false, com.lothrazar.cyclicmagic.item.bauble.ItemCharmAir
 cyclicmagic:emerald_leggings, Emerald Leggings, item.emerald_leggings, false, com.lothrazar.cyclicmagic.item.gear.ItemEmeraldArmor
+cyclicmagic:item_pipe, Item Pipe, tile.item_pipe, true, net.minecraft.item.ItemBlock
 cyclicmagic:horse_upgrade_variant, Lapis Carrot, item.horse_upgrade_variant, false, com.lothrazar.cyclicmagic.item.food.ItemHorseUpgrade
 cyclicmagic:builder_block, Structure Builder, tile.builder_block, true, net.minecraft.item.ItemBlock
 cyclicmagic:tool_harvest_weeds, Brush Scythe, item.tool_harvest_weeds, false, com.lothrazar.cyclicmagic.item.ItemScythe
@@ -16259,12 +16134,15 @@ cyclicmagic:milk, Milk, tile.milk, true, net.minecraft.item.ItemBlock
 cyclicmagic:tool_harvest_leaves, Tree Scythe, item.tool_harvest_leaves, false, com.lothrazar.cyclicmagic.item.ItemScythe
 cyclicmagic:apple_lapis, Lapis Apple, item.apple_lapis, false, com.lothrazar.cyclicmagic.item.food.ItemAppleLapis
 cyclicmagic:beacon_redstone, Empty Beacon, tile.beacon_redstone, true, net.minecraft.item.ItemBlock
+cyclicmagic:fluid_pump, Fluid Pump, tile.fluid_pump, true, net.minecraft.item.ItemBlock
+cyclicmagic:ender_eye_orb, Solid Ender Eye, item.ender_eye_orb, false, com.lothrazar.cyclicmagic.item.ItemEnderEyeReuse
 cyclicmagic:emerald_boots, Emerald Boots, item.emerald_boots, false, com.lothrazar.cyclicmagic.item.gear.ItemEmeraldArmor
 cyclicmagic:wand_missile, Spirit Seeker, item.wand_missile, false, com.lothrazar.cyclicmagic.component.wandmissile.ItemMagicMissile
 cyclicmagic:sword_slowness, Sword of Decay, item.sword_slowness, false, com.lothrazar.cyclicmagic.item.gear.ItemPowerSword
 cyclicmagic:fire_dark, Dark Fire, tile.fire_dark, true, net.minecraft.item.ItemBlock
 cyclicmagic:purple_leggings, Obsidian Leggings, item.purple_leggings, false, com.lothrazar.cyclicmagic.item.gear.ItemPowerArmor
 cyclicmagic:ender_lightning, Engraved Thunder, item.ender_lightning, false, com.lothrazar.cyclicmagic.component.wandlightning.ItemProjectileLightning
+cyclicmagic:wireless_receiver, Wireless Receiver, tile.wireless_receiver, true, net.minecraft.item.ItemBlock
 cyclicmagic:end_iron_ore, End Iron Ore, tile.end_iron_ore, true, net.minecraft.item.ItemBlock
 cyclicmagic:fire_killer, Fire Slayer, item.fire_killer, false, com.lothrazar.cyclicmagic.item.ItemFireExtinguish
 cyclicmagic:soulstone, Soulstone, item.soulstone, false, com.lothrazar.cyclicmagic.item.ItemSoulstone
@@ -16276,6 +16154,7 @@ cyclicmagic:tool_torch_launcher, Torch launcher, item.tool_torch_launcher, false
 cyclicmagic:plate_push_slow, Slow Slime Conveyor, tile.plate_push_slow, true, net.minecraft.item.ItemBlock
 cyclicmagic:uncrafting_block, Uncrafting Grinder, tile.uncrafting_block, true, net.minecraft.item.ItemBlock
 cyclicmagic:block_miner_smart, Controlled Miner, tile.block_miner_smart, true, net.minecraft.item.ItemBlock
+cyclicmagic:item_pump, Item Pump, tile.item_pump, true, net.minecraft.item.ItemBlock
 cyclicmagic:sword_weakness, Sword of Atrophy, item.sword_weakness, false, com.lothrazar.cyclicmagic.item.gear.ItemPowerSword
 cyclicmagic:sandstone_hoe, Sandstone Hoe, item.sandstone_hoe, false, com.lothrazar.cyclicmagic.item.gear.ItemSandstoneHoe
 cyclicmagic:auto_crafter, Auto Crafter, tile.auto_crafter, true, net.minecraft.item.ItemBlock
@@ -16291,11 +16170,12 @@ cyclicmagic:harvester_block, Harvester, tile.harvester_block, true, net.minecraf
 cyclicmagic:emerald_hoe, Emerald Hoe, item.emerald_hoe, false, com.lothrazar.cyclicmagic.item.gear.ItemEmeraldHoe
 cyclicmagic:ender_water, Antimatter Evaporator, item.ender_water, false, com.lothrazar.cyclicmagic.item.ItemWaterRemoval
 cyclicmagic:ender_pearl_reuse, Ender Orb, item.ender_pearl_reuse, false, com.lothrazar.cyclicmagic.item.ItemEnderPearlReuse
+cyclicmagic:wireless_transmitter, Wireless Transmitter, tile.wireless_transmitter, true, com.lothrazar.cyclicmagic.component.wireless.ItemBlockWireless
 cyclicmagic:plate_launch_med, Slime Plate, tile.plate_launch_med, true, net.minecraft.item.ItemBlock
 cyclicmagic:end_redstone_ore, End Redstone Ore, tile.end_redstone_ore, true, net.minecraft.item.ItemBlock
 cyclicmagic:sprinkler, Sprinkler, tile.sprinkler, true, net.minecraft.item.ItemBlock
 cyclicmagic:chest_sack_empty, Empty Sack of Holding, item.chest_sack_empty, false, com.lothrazar.cyclicmagic.item.ItemChestSackEmpty
-cyclicmagic:block_storeempty, Fluid Storage Tank, tile.block_storeempty, true, com.lothrazar.cyclicmagic.component.bucketstorage.ItemBlockBucket
+cyclicmagic:block_storeempty, Fluid Storage Tank, tile.block_storeempty, true, com.lothrazar.cyclicmagic.component.fluidstorage.ItemBlockBucket
 cyclicmagic:inventory_food, Inventory Upgrade, item.inventory_food, false, com.lothrazar.cyclicmagic.component.playerext.ItemFoodInventory
 cyclicmagic:end_diamond_ore, End Diamond Ore, tile.end_diamond_ore, true, net.minecraft.item.ItemBlock
 cyclicmagic:emerald_helmet, Emerald Helmet, item.emerald_helmet, false, com.lothrazar.cyclicmagic.item.gear.ItemEmeraldArmor
@@ -16306,6 +16186,7 @@ cyclicmagic:sack_ender, Ender Sack, item.sack_ender, false, com.lothrazar.cyclic
 cyclicmagic:horse_upgrade_health, Diamond Carrot, item.horse_upgrade_health, false, com.lothrazar.cyclicmagic.item.food.ItemHorseUpgrade
 cyclicmagic:tool_launcher, Player Launcher, item.tool_launcher, false, com.lothrazar.cyclicmagic.item.ItemPlayerLauncher
 cyclicmagic:password_remote, Remote Lever, item.password_remote, false, com.lothrazar.cyclicmagic.item.ItemPasswordRemote
+cyclicmagic:block_forester, Forester, tile.block_forester, true, net.minecraft.item.ItemBlock
 cyclicmagic:block_fragile_weak, Replaceable Scaffolding, tile.block_fragile_weak, true, com.lothrazar.cyclicmagic.component.scaffold.ItemBlockScaffolding
 cyclicmagic:chest_sack, Sack of Holding, item.chest_sack, false, com.lothrazar.cyclicmagic.item.ItemChestSack
 cyclicmagic:ender_dungeon, Spawner Seeker, item.ender_dungeon, false, com.lothrazar.cyclicmagic.component.wandspawner.ItemProjectileDungeon
@@ -16332,6 +16213,7 @@ cyclicmagic:emerald_axe, Emerald Axe, item.emerald_axe, false, com.lothrazar.cyc
 cyclicmagic:tool_mount_inverse, Inverted Stirrups, item.tool_mount_inverse, false, com.lothrazar.cyclicmagic.item.ItemStirrupsReverse
 cyclicmagic:purple_helmet, Obsidian Helmet, item.purple_helmet, false, com.lothrazar.cyclicmagic.item.gear.ItemPowerArmor
 cyclicmagic:tool_rotate, Block Rotator, item.tool_rotate, false, com.lothrazar.cyclicmagic.item.ItemRotateBlock
+cyclicmagic:fluid_pipe, Fluid Pipe, tile.fluid_pipe, true, net.minecraft.item.ItemBlock
 cyclicmagic:emerald_spade, Emerald Shovel, item.emerald_spade, false, com.lothrazar.cyclicmagic.item.gear.ItemEmeraldSpade
 cyclicmagic:crafting_food, Inventory Crafting Table, item.crafting_food, false, com.lothrazar.cyclicmagic.component.playerext.ItemFoodCrafting
 cyclicmagic:block_user, Automated User, tile.block_user, true, net.minecraft.item.ItemBlock
@@ -16388,7 +16270,7 @@ cyclicmagic:emerald_sword, Emerald Sword, item.emerald_sword, false, com.lothraz
 cyclicmagic:ender_wool, Enhanced Shears, item.ender_wool, false, com.lothrazar.cyclicmagic.component.wandshears.ItemShearsRanged
 cyclicmagic:tool_spelunker, Cavefinder, item.tool_spelunker, false, com.lothrazar.cyclicmagic.item.ItemCaveFinder
 cyclicmagic:tool_swap, Standard Exchange Scepter, item.tool_swap, false, com.lothrazar.cyclicmagic.item.ItemBuildSwapper
-cyclicmagic:sandstone_spade, Sandstone Spade, item.sandstone_spade, false, com.lothrazar.cyclicmagic.item.gear.ItemSandstoneSpade
+cyclicmagic:sandstone_spade, Sandstone Shovel, item.sandstone_spade, false, com.lothrazar.cyclicmagic.item.gear.ItemSandstoneSpade
 cyclicmagic:entity_detector, Entity Detector, tile.entity_detector, true, net.minecraft.item.ItemBlock
 cyclicmagic:storage_bag, Sack of Storage, item.storage_bag, false, com.lothrazar.cyclicmagic.component.storagesack.ItemStorageBag
 cyclicmagic:charm_water, Water Charm, item.charm_water, false, com.lothrazar.cyclicmagic.item.bauble.ItemCharmWater
@@ -16480,7 +16362,7 @@ industrialforegoing:block_placer, Block Placer, tile.industrialforegoing.block_p
 industrialforegoing:tree_fluid_extractor, Tree Fluid Extractor, tile.industrialforegoing.tree_fluid_extractor, true, net.minecraft.item.ItemBlock
 industrialforegoing:latex_processing_unit, Latex Processing Unit, tile.industrialforegoing.latex_processing_unit, true, net.minecraft.item.ItemBlock
 industrialforegoing:sewage_composter_solidifier, Sewage Composter, tile.industrialforegoing.sewage_composter_solidifier, true, net.minecraft.item.ItemBlock
-industrialforegoing:animal_byproduct_recolector, Animal Sewage, tile.industrialforegoing.animal_byproduct_recolector, true, net.minecraft.item.ItemBlock
+industrialforegoing:animal_byproduct_recolector, Animal Sewer, tile.industrialforegoing.animal_byproduct_recolector, true, net.minecraft.item.ItemBlock
 industrialforegoing:sludge_refiner, Sludge Refiner, tile.industrialforegoing.sludge_refiner, true, net.minecraft.item.ItemBlock
 industrialforegoing:mob_detector, Mob Detector, tile.industrialforegoing.mob_detector, true, net.minecraft.item.ItemBlock
 industrialforegoing:lava_fabricator, Lava Fabricator, tile.industrialforegoing.lava_fabricator, true, net.minecraft.item.ItemBlock
@@ -17372,31 +17254,31 @@ rftoolsdim:structure_essence:8, Structure Swamp Hut Essence, item.structure_esse
 rftoolsdim:structure_essence:9, Structure Desert Temple Essence, item.structure_essence_desertTemple, false, net.minecraft.item.ItemStack
 rftoolsdim:structure_essence:10, Structure Jungle Temple Essence, item.structure_essence_jungleTemple, false, net.minecraft.item.ItemStack
 rftoolsdim:structure_essence:11, Structure Igloo Essence, item.structure_essence_igloo, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (9), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (8), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (7), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:12, Controller Dimlet (Default), item.known_dimlet_controller, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (6), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (5), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:7, Feature Dimlet (None), item.known_dimlet_feature, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:2, Material Dimlet (Stone), item.known_dimlet_material, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:12, Controller Dimlet (Single), item.known_dimlet_controller, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal night), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:3, Mob Dimlet (Default), item.known_dimlet_mob, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:8, Time Dimlet (Normal), item.known_dimlet_time, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:1, Liquid Dimlet (Water), item.known_dimlet_liquid, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:5, Structure Dimlet (None), item.known_dimlet_structure, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat), item.known_dimlet_terrain, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:13, Weather Dimlet (Default), item.known_dimlet_weather, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:10, Effect Dimlet (None), item.known_dimlet_effect, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:6, Terrain Dimlet (Void), item.known_dimlet_terrain, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (4), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
-rftoolsdim:known_dimlet:9, Digit Dimlet (3), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal night), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:10, Effect Dimlet (None), item.known_dimlet_effect, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:5, Structure Dimlet (None), item.known_dimlet_structure, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:12, Controller Dimlet (Single), item.known_dimlet_controller, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:12, Controller Dimlet (Default), item.known_dimlet_controller, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal), item.known_dimlet_sky, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat), item.known_dimlet_terrain, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:9, Digit Dimlet (2), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:9, Digit Dimlet (1), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:1, Liquid Dimlet (Water), item.known_dimlet_liquid, false, net.minecraft.item.ItemStack
 rftoolsdim:known_dimlet:9, Digit Dimlet (0), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:7, Feature Dimlet (None), item.known_dimlet_feature, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:8, Time Dimlet (Normal), item.known_dimlet_time, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (6), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (5), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (4), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (3), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (9), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (8), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:13, Weather Dimlet (Default), item.known_dimlet_weather, false, net.minecraft.item.ItemStack
+rftoolsdim:known_dimlet:9, Digit Dimlet (7), item.known_dimlet_digit, false, net.minecraft.item.ItemStack
 rftoolsdim:efficiency_essence, Efficiency Essence, item.efficiency_essence, false, mcjty.rftoolsdim.items.parts.EfficiencyEssenceItem
 rftoolsdim:mediocre_efficiency_essence, Mediocre Efficiency Essence, item.mediocre_efficiency_essence, false, mcjty.rftoolsdim.items.parts.MediocreEfficiencyEssenceItem
 rftoolsdim:empty_dimension_tab, Empty Dimension Tab, item.empty_dimension_tab, false, mcjty.rftoolsdim.items.EmptyDimensionTab
@@ -17478,6 +17360,8 @@ blockcraftery:editable_slant, Framed Slant, tile.editable_slant, true, net.minec
 blockcraftery:editable_outer_corner, Framed Outer Corner, tile.editable_outer_corner, true, net.minecraft.item.ItemBlock
 blockcraftery:editable_inner_corner, Framed Inner Corner, tile.editable_inner_corner, true, net.minecraft.item.ItemBlock
 blockcraftery:editable_wall, Framed Wall, tile.editable_wall, true, net.minecraft.item.ItemBlock
+elulib:multiblock_slave_empty, tile.multiblock_slave_empty.name, tile.multiblock_slave_empty, true, net.minecraft.item.ItemBlock
+elulib:test, Test Block, tile.test, true, net.minecraft.item.ItemBlock
 corail_pillar_extension_forestry:forestry_log_0:8, Larch Wood Pillar, tile.null, true, net.minecraft.item.ItemStack
 corail_pillar_extension_forestry:forestry_log_0:0, Larch Wood Pillar, tile.null, true, net.minecraft.item.ItemStack
 corail_pillar_extension_forestry:forestry_log_0:9, Teak Wood Pillar, tile.null, true, net.minecraft.item.ItemStack
@@ -17801,6 +17685,13 @@ forestry:crated.minecraft.sapling.2, item.crated.minecraft.sapling.2.name, item.
 forestry:crated.minecraft.sapling.3, item.crated.minecraft.sapling.3.name, item.crated.minecraft.sapling.3, false, forestry.storage.items.ItemCrated
 forestry:crated.minecraft.sapling.4, item.crated.minecraft.sapling.4.name, item.crated.minecraft.sapling.4, false, forestry.storage.items.ItemCrated
 forestry:crated.minecraft.sapling.5, item.crated.minecraft.sapling.5.name, item.crated.minecraft.sapling.5, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name, item.crated.forestry.fruits.0, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name, item.crated.forestry.fruits.1, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name, item.crated.forestry.fruits.2, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name, item.crated.forestry.fruits.3, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name, item.crated.forestry.fruits.4, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name, item.crated.forestry.fruits.6, false, forestry.storage.items.ItemCrated
+forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name, item.crated.forestry.fruits.5, false, forestry.storage.items.ItemCrated
 forestry:crated.forestry.beeswax.0, item.crated.forestry.beeswax.0.name, item.crated.forestry.beeswax.0, false, forestry.storage.items.ItemCrated
 forestry:crated.forestry.pollen.0, item.crated.forestry.pollen.0.name, item.crated.forestry.pollen.0, false, forestry.storage.items.ItemCrated
 forestry:crated.forestry.pollen.1, item.crated.forestry.pollen.1.name, item.crated.forestry.pollen.1, false, forestry.storage.items.ItemCrated
@@ -17821,10 +17712,3 @@ forestry:crated.forestry.bee_combs.14, item.crated.forestry.bee_combs.14.name, i
 forestry:crated.forestry.bee_combs.15, item.crated.forestry.bee_combs.15.name, item.crated.forestry.bee_combs.15, false, forestry.storage.items.ItemCrated
 forestry:crated.forestry.bee_combs.16, item.crated.forestry.bee_combs.16.name, item.crated.forestry.bee_combs.16, false, forestry.storage.items.ItemCrated
 forestry:crated.forestry.refractory_wax.0, item.crated.forestry.refractory_wax.0.name, item.crated.forestry.refractory_wax.0, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name, item.crated.forestry.fruits.0, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name, item.crated.forestry.fruits.1, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name, item.crated.forestry.fruits.2, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name, item.crated.forestry.fruits.3, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name, item.crated.forestry.fruits.4, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name, item.crated.forestry.fruits.6, false, forestry.storage.items.ItemCrated
-forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name, item.crated.forestry.fruits.5, false, forestry.storage.items.ItemCrated
